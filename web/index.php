@@ -36,9 +36,7 @@ if (document.images) {
 
 
 function turnOn(image2) {
-
   if (document.images) {
-
     document[image2].src = eval(image2 + "on.src");
 
   }
