@@ -8,9 +8,9 @@
 <!--
 if (document.images) {
   image1on = new Image();
-  image1on.src = "images/top/adults1.jpg";
+  image1on.src = "images/top/adults2.jpg";
   image1off = new Image();
-  image1off.src = "images/top/adults2.jpg";
+  image1off.src = "images/top/adults1.jpg";
 }
 
 function turnOn(image1) {
@@ -25,9 +25,9 @@ function turnOff(image1) {
 }
 if (document.images) {
   image2on = new Image();
-  image2on.src = "images/top/fashion1.jpg";
+  image2on.src = "images/top/fashion2.jpg";
   image2off = new Image();
-  image2off.src = "images/top/fashion2.jpg";
+  image2off.src = "images/top/fashion1.jpg";
 }
 function turnOn(image2) {
   if (document.images) {
@@ -45,9 +45,9 @@ function turnOff(image2) {
 <!--
 if (document.images) {
   image3on = new Image();
-  image3on.src = "images/top/weddings1.jpg";
+  image3on.src = "images/top/weddings2.jpg";
   image3off = new Image();
-  image3off.src = "images/top/weddings2.jpg";
+  image3off.src = "images/top/weddings1.jpg";
 }
 function turnOn(image3) {
   if (document.images) {
@@ -63,9 +63,9 @@ function turnOff(image3) {
 <!--
 if (document.images) {
   image4on = new Image();
-  image4on.src = "images/top/events1.jpg";
+  image4on.src = "images/top/events2.jpg";
   image4off = new Image();
-  image4off.src = "images/top/events2.jpg";
+  image4off.src = "images/top/events1.jpg";
 }
 function turnOn(image4) {
   if (document.images) {
@@ -81,9 +81,9 @@ function turnOff(image4) {
 <!--
 if (document.images) {
   image5on = new Image();
-  image5on.src = "images/top/nudes1.jpg";
+  image5on.src = "images/top/nudes2.jpg";
   image5off = new Image();
-  image5off.src = "images/top/nudes2.jpg";
+  image5off.src = "images/top/nudes1.jpg";
 }
 function turnOn(image5) {
   if (document.images) {
@@ -99,9 +99,9 @@ function turnOff(image5) {
  <!--
 if (document.images) {
   image6on = new Image();
-  image6on.src = "images/top/family1.jpg";
+  image6on.src = "images/top/family2.jpg";
   image6off = new Image();
-  image6off.src = "images/top/family2.jpg";
+  image6off.src = "images/top/family1.jpg";
 }
 function turnOn(image6) {
   if (document.images) {
@@ -117,9 +117,9 @@ function turnOff(image6) {
  <!--
 if (document.images) {
   image7on = new Image();
-  image7on.src = "images/top/nature1.jpg";
+  image7on.src = "images/top/nature2.jpg";
   image7off = new Image();
-  image7off.src = "images/top/nature2.jpg";
+  image7off.src = "images/top/nature1.jpg";
 }
 function turnOn(image) {
   if (document.images) {
@@ -135,9 +135,9 @@ function turnOff(image7) {
  <!--
 if (document.images) {
   image8on = new Image();
-  image8on.src = "images/top/architecture1.jpg";
+  image8on.src = "images/top/architecture2.jpg";
   image8off = new Image();
-  image8off.src = "images/top/architecture2.jpg";
+  image8off.src = "images/top/architecture1.jpg";
 }
 function turnOn(image8) {
   if (document.images) {
