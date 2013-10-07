@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
+  <title>Bohemia Photography</title>
   <?php include_once("./templates/zahlavi.php");?>
   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
      <script>
@@ -150,7 +151,6 @@ function turnOff(image8) {
 }
 -->
 </script>
-<title>Bohemia Photography</title> 
   </head>
   <body>
      <div id="top">

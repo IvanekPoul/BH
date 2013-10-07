@@ -1,7 +1,7 @@
 <!-- HEADER TEMPLATE START-->
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta http-equiv="content-language" content="en" />
-<meta name="copyright" content="Copyright (c) 2013 Mr. Ivan Poul">
+<meta name="copyright" content="Copyright (c) 2013 Mr. Ivan Poul" />
 <link rel="stylesheet" href="css/bohemiaphotography.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/menu.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
