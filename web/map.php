@@ -10,7 +10,7 @@
 
    <meta name="copyright" content="Copyright (c) 2013 Ivan Poul">
 
-   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
+   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand"/>
 
 
 
@@ -51,8 +51,7 @@
       <div id="mright">
 
    
-       <br>
-   <br>
+ 
    <br>
    <br>
    <br>

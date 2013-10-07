@@ -4,7 +4,7 @@
   <head>
     <?php include_once("./templates/zahlavi.php");?>
    <meta name="copyright" content="Copyright (c) 2013 Ivan Poul">
-   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
+   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand"/>
   <script>
    <!--
 if (document.images) {
@@ -73,8 +73,7 @@ function turnOff(image2T) {
   
    
    <!-- PAGE CONTENT START -->
-   <br>
-   <br>
+
    <br>
    <br>
    <br>

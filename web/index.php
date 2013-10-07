@@ -165,36 +165,35 @@ function turnOff(image8) {
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
-     <br>
-   <br>
+ 
    <br>
    <br>
    <br>
   <center>
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
 <img name="image1" src="images/top/adults1.jpg" alt="ADULTS" width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./fashion.php" onMouseOver="turnOn('image2')" onMouseOut="turnOff('image2')">
 <img name="image2" src="images/top/fashion1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./weddings.php" onMouseOver="turnOn('image3')" onMouseOut="turnOff('image3')">
 <img name="image3" src="images/top/weddings1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./events.php" onMouseOver="turnOn('image4')" onMouseOut="turnOff('image4')">
 <img name="image4" src="images/top/events1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./nudes.php" onMouseOver="turnOn('image5')" onMouseOut="turnOff('image5')">
 <img name="image5" src="images/top/nudes1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./family.php" onMouseOver="turnOn('image6')" onMouseOut="turnOff('image6')">
 <img name="image6" src="images/top/family1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./nature.php" onMouseOver="turnOn('image7')" onMouseOut="turnOff('image7')">
 <img name="image7" src="images/top/nature1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./architecture.php" onMouseOver="turnOn('image8')" onMouseOut="turnOff('image8')">
 <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
-  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"></a>
+  onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 </center>
 <p>
 LET US CAPTURE YOUR UNIQUE SOUL! 

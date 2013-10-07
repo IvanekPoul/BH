@@ -3,8 +3,8 @@
 <html>
   <head>
     <?php include_once("./templates/zahlavi.php");?>
-   <meta name="copyright" content="Copyright (c) 2013 Ivan Poul">
-   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, glamour, art, Auckland, North Island, New Zealand">
+   <meta name="copyright" content="Copyright (c) 2013 Ivan Poul"/>
+   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, glamour, art, Auckland, North Island, New Zealand"/>
 
 <title>Glamour & Nude</title> 
 
@@ -26,8 +26,7 @@
       <div id="mright">
    
    <!-- PAGE CONTENT START -->
-   <br>
-   <br>
+ 
    <br>
    <br>
    <br>
