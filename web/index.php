@@ -1,83 +1,36 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-
-
 <html>
-
   <head>
-
-    <?php include_once("./templates/zahlavi.php");?>
-
-   <meta name="copyright" content="Copyright (c) 2013 Ivan Poul">
-
-   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
-
-
-
- <SCRIPT>
+  <?php include_once("./templates/zahlavi.php");?>
+  <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
+ 
+  <script>
 
 <!--
-
 if (document.images) {
-
   image1on = new Image();
-
   image1on.src = "images/top/adults1.jpg";
-
-
-
   image1off = new Image();
-
   image1off.src = "images/top/adults2.jpg";
-
-
-
 }
-
-
 
 function turnOn(image1) {
-
   if (document.images) {
-
     document[image1].src = eval(image1 + "on.src");
-
   }
-
 }
-
-
 
 function turnOff(image1) {
-
   if (document.images) {
-
     document[image1].src = eval(image1 + "off.src");
-
   }
-
 }
 
--->
-
-
-
-<!--
-
 if (document.images) {
-
   image2on = new Image();
-
   image2on.src = "images/top/fashion1.jpg";
-
-
-
   image2off = new Image();
-
   image2off.src = "images/top/fashion2.jpg";
-
-
-
 }
 
 
@@ -379,12 +332,8 @@ function turnOff(image8) {
   }
 
 }
-
 -->
-
-
-
-</SCRIPT>
+</script>
 
 
 
