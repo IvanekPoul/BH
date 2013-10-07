@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+   <url>
+      <loc>http://www.bohemiaphotography.com/</loc>
+      <lastmod>2013-10-07T02:16:48+00:00</lastmod>
+      <priority>1.00</priority>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://www.bohemiaphotography.com/adults.php</loc>
+      <lastmod>2013-09-27T02:16:48+00:00</lastmod>
+      <priority>1.00</priority>
+      <changefreq>daily</changefreq>
+   </url>
+</urlset>
