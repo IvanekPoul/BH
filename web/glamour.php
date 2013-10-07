@@ -59,10 +59,10 @@ function turnOff(imageA) {
     
  <h2>  WARNING!</h2>
    You are entering a web page with erotic themes. Regarding worldwide common law, people under 18 are not allowed to enter.
-   <br> 
+   <br/> 
    If you are <b>not 18 years or older</b>, please <b>CLOSE</b> the window.
-   <br>
-   <br>
+   <br/>
+   <br/>
   <b> I am older 18 years and I can enter.  </b> 
    
    <a href="./g-photo.php" href="javascript: closepopup()" onMouseOver="turnOn('imageA')" onMouseOut="turnOff('imageA')" target="blank">

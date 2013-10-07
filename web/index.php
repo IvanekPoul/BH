@@ -161,14 +161,14 @@ function turnOff(image8) {
         <?php include_once('templates/top_menu.php');?>
       </div>
     </div>
-   <br>                                                     
+   <br/>                                                     
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
  
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
   <center>
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
 <img name="image1" src="images/top/adults1.jpg" alt="ADULTS" width="200" border="0"
@@ -197,11 +197,11 @@ function turnOff(image8) {
 </center>
 <p>
 LET US CAPTURE YOUR UNIQUE SOUL! 
-<br>
+<br/>
 PHOTO SERVICES NEVER SHOULD BE JUST ABOUT PRESSING THE BUTTON ON THE CAMERA. WE ARE READY TO ASSIST YOU FROM THE CHOICE OF TOPIC UP TO FINAL PRODUCT PRINTING.
 WE OFFER A WIDE RANGE OF THEMES AND HAVE OWN GOOD EQUIPTED PHOTOGRAPHIC STUDIO.
 </p>
-<BR>
+<br/>
    </p>
    <!-- PAGE CONTENT END -->
       </div>

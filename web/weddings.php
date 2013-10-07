@@ -53,13 +53,13 @@
    <!-- PAGE CONTENT START -->
 
  
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
 
    <h1>Weddings</h1>
 
-    <br>
+    <br/>
 
    <a href="/images/wedding/wedding16.jpg" title="Wedding" rel="lightbox[g]">
 

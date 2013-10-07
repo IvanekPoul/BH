@@ -27,11 +27,11 @@
    
    <!-- PAGE CONTENT START -->
 
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
 <h1>Events & Product Photos </h1>
-<br>
+<br/>
    
    <a href="/images/events/t1.jpg" title="Events" rel="lightbox[g]">
   <img src="/images/events/t1a.jpg" height="130" alt="Tenis Tournament" class="img_link" /></a>
@@ -123,7 +123,7 @@
 
 </p>
    <!-- PAGE CONTENT END -->
-          <br>
+          <br/>
 
       </div>
       <div id="mbottom">

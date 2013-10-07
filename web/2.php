@@ -49,13 +49,13 @@
 
    <!-- PAGE CONTENT START -->
 
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
 
    <h1>The Bauhaus Photoshoot</h1>
 
-     <br>
+     <br/>
 
       
 

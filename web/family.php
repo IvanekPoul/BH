@@ -51,12 +51,12 @@
 
    <!-- PAGE CONTENT START -->
 
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
 
 <h1>Family & Kids Photos </h1>
-   <br>
+   <br/>
  <a href="/images/family/family7.jpg" title="Family Photos" rel="lightbox[g]">
 
    <img src="/images/family/family7a.jpg" height="150" alt="Family Photos" class="img_link" /></a> 

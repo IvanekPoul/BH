@@ -27,15 +27,15 @@
    
    <!-- PAGE CONTENT START -->
 
-   <br>
-   <br>
-   <br>
+   <br/>
+   <br/>
+   <br/>
  <h1 class="nadpis"><span>Contact</span></h1>
- <br>
+ <br/>
   <p align="justify">
 Book a consultation to have a chat with a professional how to start the photo sesion in your convenience. We would like to give you a piece of advice what to wear on to have perfect photos. It's free!
-<br>
-<br>
+<br/>
+<br/>
 Do not hesitate to contact us with your special wish...
    </p>
 <address>
@@ -59,7 +59,7 @@ Do not hesitate to contact us with your special wish...
      <div>
        <p align="center">
       <img src="./images/poul.jpg" width="500">
-           <br>
+           <br/>
       </p>
       
       </div>
