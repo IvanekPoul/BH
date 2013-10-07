@@ -27,8 +27,13 @@
    
    <!-- PAGE CONTENT START -->
  
+    <br>
+   <br>
+   <br>
+   <br>
    <br>
 <h1>Price List</h1>
+<br>
 <p>
 <a href="./price.php#portrait">Adult, Portrait, Fashion</a>     <br>
 <a href="./price.php#wedding">Wedding</a>                         <br>

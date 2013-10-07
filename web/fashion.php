@@ -55,11 +55,15 @@
    <!-- PAGE CONTENT START -->
 
       <br>
+   <br>
+   <br>
+   <br>
+   <br>
 
    <h1>Fashion</h1>  
 
    
-
+      <br>
     <a href="/images/fashion/exhib1.jpg" title="NZ Fashion Week" target="blank">
 
   <img src="/images/fashion/exib1b.jpg" height="150" alt="NZ Fashion Week" class="img_link" /></a>

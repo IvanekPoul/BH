@@ -52,12 +52,16 @@
 
    <!-- PAGE CONTENT START -->
 
-      <br>
+     <br>
+   <br>
+   <br>
+   <br>
+   <br>
 
    <h1>Cook Islanders</h1>
 
    
-
+     <br>
       
 
   <a href="./images/maoris/maoris1.jpg" target="blank"><img src="/images/maoris/maoris1a.jpg" height="130" alt="Maoris"  /></a>

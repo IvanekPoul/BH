@@ -54,11 +54,15 @@
 
    <!-- PAGE CONTENT START -->
 
- <br> 
+ <br>
+   <br>
+   <br>
+   <br>
+   <br>
 
 <h1>Architecture</h1>
 
-
+  <br>
 
 <a href="/images/architecture/a23.jpg" title="Architecture" target="blank">
 

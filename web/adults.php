@@ -57,8 +57,12 @@
    
 
     <br>
-
+   <br>
+   <br>
+   <br>
+   <br>
 <h1>Adult Photos</h1>
+<br>
 
  <a href="./images/adults/jp1.jpg" title="Adults" rel="lightbox[g]">
 

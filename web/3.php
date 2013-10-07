@@ -25,11 +25,14 @@
       <div id="mright">
    
    <!-- PAGE CONTENT START -->
-      <br>   
-      <br>
+       <br>
+   <br>
+   <br>
+   <br>
+   <br>
    <h1>NZ Fashion Week</h1>
    
-      
+    <br>  
   <a href="./images/3/1.jpg" rel="lightbox[g]" ><img src="/images/3/1a.jpg" height="200" alt="NZ Fashion Week"  /></a>
    <a href="./images/3/2.jpg" rel="lightbox[g]"><img src="/images/3/2a.jpg" height="200" alt="NZ Fashion Week"  /></a>
            <a href="./images/3/3.jpg" rel="lightbox[g]"><img src="/images/3/3a.jpg" height="200" alt="NZ Fashion Week"  /></a>

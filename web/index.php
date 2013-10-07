@@ -165,7 +165,11 @@ function turnOff(image8) {
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
-    <br>
+     <br>
+   <br>
+   <br>
+   <br>
+   <br>
   <center>
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
 <img name="image1" src="images/top/adults1.jpg" alt="ADULTS" width="200" border="0"

@@ -9,10 +9,10 @@
    <!--
 if (document.images) {
   image1Ton = new Image();
-  image1Ton.src = "./images/postproduction/treat1.jpg";
+  image1Ton.src = "./images/postproduction/1.jpg";
 
   image1Toff = new Image();
-  image1Toff.src = "./images/postproduction/treat2.jpg";
+  image1Toff.src = "./images/postproduction/2.jpg";
 
 }
 
@@ -32,10 +32,10 @@ function turnOff(image1T) {
 <!--
 if (document.images) {
   image2Ton = new Image();
-  image2Ton.src = "./images/postproduction/treat1.jpg";
+  image2Ton.src = "./images/postproduction/1.jpg";
 
   image2Toff = new Image();
-  image2Toff.src = "./images/postproduction/treat3.jpg";
+  image2Toff.src = "./images/postproduction/3.jpg";
 
 }
 
@@ -73,11 +73,13 @@ function turnOff(image2T) {
   
    
    <!-- PAGE CONTENT START -->
- 
+   <br>
+   <br>
    <br>
    <br>
    <br>
 <h1>How do We Work?</h1>
+<br>
 <p>
 All our images go through software post-processing turning you into profesionally looking photo model and making art work 
 from common plain shot.
@@ -89,14 +91,13 @@ makeup corrections and smoothing, removal of stray hairs, figure shaping, remova
 background adjustments, lighting corrections, etc.
 <br>  <br>
 Here we would like to show, how our photo postproduction works. Try to move your mouse over the picture below to see before and after.
- 
-  <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic Postproduction &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Postproduction</h2>        
- <a href="./images/postproduction/treat2.jpg" onMouseOver="turnOn('image1T')" onMouseOut="turnOff('image1T')" rel="lightbox[g]">
-<img name="image1T" src="images/postproduction/treat2.jpg" alt="Postproduction" width="400" border="0"
+ <br><br>
+   <a href="./images/postproduction/2.jpg" onMouseOver="turnOn('image1T')" onMouseOut="turnOff('image1T')" rel="lightbox[g]">
+<img name="image1T" src="images/postproduction/2.jpg" alt="Postproduction" width="400" border="0"
 onmouseover="window.status='Postproduction'; return true" onmouseout="window.status='SSSSSS'; return true" class="img_link" ></a>
 
-<a href="./images/postproduction/treat3.jpg" onMouseOver="turnOn('image2T')" onMouseOut="turnOff('image2T')" rel="lightbox[g]">
-<img name="image2T" src="images/postproduction/treat3.jpg" alt="TRETAMENT" width="400" border="0"
+<a href="./images/postproduction/3.jpg" onMouseOver="turnOn('image2T')" onMouseOut="turnOff('image2T')" rel="lightbox[g]">
+<img name="image2T" src="images/postproduction/3.jpg" alt="TRETAMENT" width="400" border="0"
 onmouseover="window.status='Postproduction'; return true" onmouseout="window.status='SSSSSS'; return true" class="img_link" ></a>
 <div class="separator"></div>
          
