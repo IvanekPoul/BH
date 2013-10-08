@@ -3,7 +3,7 @@
   <head>
   <title>Bohemia Photography</title>
   <?php include_once("./templates/zahlavi.php");?>
-  <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
+  <meta name="keywords" content="Pakuranga, Manukau, cheap, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
      <script>
 <!--
 if (document.images) {
@@ -196,10 +196,12 @@ function turnOff(image8) {
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 </center>
 <p>
-LET US CAPTURE YOUR UNIQUE SOUL! 
+Let Us Capture Your Unique Soul!
 <br/>
-PHOTO SERVICES NEVER SHOULD BE JUST ABOUT PRESSING THE BUTTON ON THE CAMERA. WE ARE READY TO ASSIST YOU FROM THE CHOICE OF TOPIC UP TO FINAL PRODUCT PRINTING.
-WE OFFER A WIDE RANGE OF THEMES AND HAVE OWN GOOD EQUIPTED PHOTOGRAPHIC STUDIO.
+Photo services never should be just about pressing a camera trigger; we are ready to assist you from a choice of topic to a final product prints.
+<br/>
+Our team offer a wide range themes and have invites you to our good equipped photographic studio.
+
 </p>
 <br/>
    </p>
