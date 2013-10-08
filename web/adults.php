@@ -58,9 +58,9 @@
 <h1>Adults & Portrait</h1>
 <br/>
 <a href="/images/adults/201310095.jpg" title="Adults" rel="lightbox[g]">
-  <img src="/images/adults/201310095a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a> 
+  <img src="/images/adults/201310095a.jpg" height="150" alt="Adults" class="img_link" /></a> 
   <a href="/images/adults/201310099.jpg" title="Adults" rel="lightbox[g]">
-  <img src="/images/adults/201310099a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>   
+  <img src="/images/adults/201310099a.jpg" height="150" alt="Adults" class="img_link" /></a>   
   
 
  <a href="./images/adults/jp1.jpg" title="Adults" rel="lightbox[g]">
