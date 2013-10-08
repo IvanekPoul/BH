@@ -71,6 +71,10 @@
 
 
  </a>
+ <a href="/images/country/201310091.jpg" title="Beach" rel="lightbox[g]">
+  <img src="/images/country/201310091a.jpg" height="130" alt="Beach" class="img_link" /></a> 
+   <a href="/images/country/2013100911.jpg" title="Beach" rel="lightbox[g]">
+  <img src="/images/country/2013100911a.jpg" height="130" alt="Beach" class="img_link" /></a> 
 
   <a href="/images/country/c1.jpg" title="Ladakh" target="blank" >
 
