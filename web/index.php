@@ -179,7 +179,7 @@ function turnOff(image8) {
 <a href="./weddings.php" onMouseOver="turnOn('image3')" onMouseOut="turnOff('image3')">
 <img name="image3" src="images/top/weddings1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-<a href="./events.php" onMouseOver="turnOn('image4')" onMouseOut="turnOff('image4')">
+<a href="./event.php" onMouseOver="turnOn('image4')" onMouseOut="turnOff('image4')">
 <img name="image4" src="images/top/events1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <a href="./nudes.php" onMouseOver="turnOn('image5')" onMouseOut="turnOff('image5')">
