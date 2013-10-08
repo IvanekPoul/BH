@@ -32,6 +32,8 @@
    <br/>
    <h1>Glamour & Nude</h1>
       <br/>
+     <a href="/images/glamour/201310092.jpg" title="Glamour & Nude" rel="lightbox[g]">
+  <img src="/images/glamour/201310092a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>    
     <a href="/images/glamour/03102013-9.jpg" title="Glamour & Nude" rel="lightbox[g]">
   <img src="/images/glamour/03102013-9a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>   
    <a href="/images/glamour/03102013-20.jpg" title="Glamour & Nude" rel="lightbox[g]">
