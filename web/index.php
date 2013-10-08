@@ -155,7 +155,7 @@ function turnOff(image8) {
   <body>
      <div id="top">
        <div id="logo">
-        <a href="http://www.bohemiaphotography.com/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>            
+        <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>            
       </div><!-- logo -->
       <div>
         <?php include_once('templates/top_menu.php');?>
