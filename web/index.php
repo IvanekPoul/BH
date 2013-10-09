@@ -172,6 +172,9 @@ function turnOff(image8) {
       <div>
         <?php include_once('templates/top_menu.php');?>
       </div>
+       
+      <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
+      </div>
     </div>
    <br/>                                                     
  <div id="main">
@@ -206,8 +209,7 @@ function turnOff(image8) {
 <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <br/>  
-<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
-</div>
+
 <p>
 Let Us Capture Your Unique Soul!
 <br/>
