@@ -178,6 +178,7 @@ function turnOff(image8) {
        <img src="./img/fb.jpg" height="20" alt="FaceBook"/>
        <data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true" class="fb-like" >
        </div>
+          <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="true" data-send="false"></div>
     </div>
    <br/>                                                     
  <div id="main">
