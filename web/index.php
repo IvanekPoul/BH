@@ -157,7 +157,7 @@ function turnOff(image8) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -203,7 +203,7 @@ function turnOff(image8) {
 <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 <br/>  
-
+ <br/>
 <p>
 Let Us Capture Your Unique Soul!
 <br/>
