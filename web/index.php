@@ -157,7 +157,7 @@ function turnOff(image8) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_EN/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -168,7 +168,7 @@ function turnOff(image8) {
        <div id="logo">
         <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>  
    </div><!-- logo -->
-        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="true" data-send="false">
+        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
         </div>
       <div>
         <?php include_once('templates/top_menu.php');?>
