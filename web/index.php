@@ -168,8 +168,7 @@ function turnOff(image8) {
        <div id="logo">
         <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>  
    </div><!-- logo -->
-        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
-        </div>
+
       <div>
         <?php include_once('templates/top_menu.php');?>
       </div>
@@ -182,7 +181,7 @@ function turnOff(image8) {
    <br/>
    <br/>
    <br/>
-  <center>
+ <p>
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
 <img name="image1" src="images/top/adults1.jpg" alt="ADULTS" width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
@@ -207,8 +206,10 @@ function turnOff(image8) {
 <a href="./architecture.php" onMouseOver="turnOn('image8')" onMouseOut="turnOff('image8')">
 <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-</center>
-<p>
+  </p>
+  <p>
+<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
+</div>
 Let Us Capture Your Unique Soul!
 <br/>
 Photo services never should be just about pressing a camera trigger; we are ready to assist you from a choice of topic to a final product prints.
