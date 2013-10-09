@@ -39,13 +39,16 @@ body{
 }
 #logo img{border: 0px;margin:0px;}
 
-#fb{ 
-    margin-left: 5px;   
+
+#fbico{ 
+    margin-left: 0px;   
     float: left;
     padding-top: 0px;
+    padding-left: 50px;
 }
-#fbico{ 
-    margin-left: 50px;   
+
+#fb{ 
+    margin-left: 5px;   
     float: left;
     padding-top: 0px;
 }
