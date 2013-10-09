@@ -10,24 +10,8 @@ function newPopup(url) {
 }
 </script>
 
-
- <li class="top"><a class="top_link"><span>NEWS</span> </a> 
-      <ul class="sub">
-        <li><a href="./1.php">Cook Islanders</a></li>
-        <li><a href="./2.php">The Bauhaus Photoshoot</a></li>
-        <li><a href="./3.php">NZ Fashion Week</a></li>
-      </ul>
- </li>      
- <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
- <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>
- <li class="top"><a href="./price.php" class="top_link"><span>Price List</span></a></li>
- <li class="top"><a class="top_link"><span>About Us</span> </a>
-     <ul class="sub">
-        <li><a href="./about.php">About Us</a></li>
-        <li><a href="./work.php">How do We Work</a></li>
-     </ul>
-        </li> 	 
- <li class="top"><a class="top_link"><span>Gallery</span></a>
+  <li class="top"><a href="./index.php" class="top_link"><span>Home</span></a></li> 
+  <li class="top"><a class="top_link"><span>Gallery</span></a>
 		<ul class="sub">
         <li><a href="./adults.php">Adults & Portrait</a></li>
         <li><a href="./event.php">Events & Product Photo</a></li>
@@ -39,8 +23,22 @@ function newPopup(url) {
         <li><a href="./nature.php">Nature</a></li>
      </ul>
     </li>
-  <li class="top"><a href="./index.php" class="top_link"><span>Home</span></a></li> 
-      
+  <li class="top"><a class="top_link"><span>About Us</span> </a>
+     <ul class="sub">
+        <li><a href="./about.php">About Us</a></li>
+        <li><a href="./work.php">How do We Work</a></li>
+     </ul>
+        </li> 
+  <li class="top"><a class="top_link"><span>NEWS</span> </a> 
+      <ul class="sub">
+        <li><a href="./1.php">Cook Islanders</a></li>
+        <li><a href="./2.php">The Bauhaus Photoshoot</a></li>
+        <li><a href="./3.php">NZ Fashion Week</a></li>
+      </ul>
+  </li>      
+  <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
+  <li class="top"><a href="./price.php" class="top_link"><span>Price List</span></a></li>
+  <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>	     
    </ul>
  <br>
  <!-- TOP MENU END -->
