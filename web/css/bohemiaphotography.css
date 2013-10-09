@@ -42,11 +42,12 @@ body{
 #fb{ 
     margin-left: 5px;   
     float: left;
-    padding-top: 3px;
+    padding-top: -8px;
 }
 #fbico{ 
-    margin-left: 0px;   
+    margin-left: 25px;   
     float: left;
+    padding-top: -3px;
 }
 
 #menu{
