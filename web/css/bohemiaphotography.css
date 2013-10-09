@@ -39,7 +39,8 @@ body{
 }
 #logo img{border: 0px;margin:0px;}
 
-#fb{    
+#fb{ 
+    margin-left: 75px;   
     float: left;
 }
 
