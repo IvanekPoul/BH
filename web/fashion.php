@@ -81,8 +81,11 @@
   <img src="/images/fashion/fashion14b.jpg" height="150" alt="Fashion" class="img_link" /></a>
   <a href="/images/fashion/fashion15.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/fashion15b.jpg" height="150" alt="Fashion" class="img_link" /></a>
-    <a href="/images/fashion/fashion16jpg" alt="Fashion" class="img_link" /></a>
-  <img src="/images/fashion/fashion16b.jpg" height="150" alt="Fashion" class="img_link" /></a>  
+    
+  <a href="/images/fashion/fashion16jpg" alt="Fashion" class="img_link" />
+    <img src="/images/fashion/fashion16b.jpg" height="150" alt="Fashion" class="img_link" />
+  </a>
+  
   <a href="/images/fashion/fashion17.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/fashion17b.jpg" height="150" alt="Fashion" class="img_link" /></a>
     <a href="/images/fashion/fashion18.jpg" title="Fashion" class="fancybox" rel="group">
@@ -101,8 +104,6 @@
   <img src="/images/fashion/fashion24b.jpg" height="150" alt="Fashion" class="img_link" /></a>
     <a href="/images/fashion/fashion25.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/fashion25b.jpg" height="150" alt="Fashion" class="img_link" /></a>
-    <a href="/images/fashion/fashion26.jpg" title="Fashion" class="fancybox" rel="group">
-
         <a href="/images/fashion/exib1a.jpg" title="NZ Fashion Week" class="fancybox" rel="group">
   <img src="/images/fashion/exib1ab.jpg" height="150" alt="NZ Fashion Week" class="img_link" /></a>
       <a href="/images/fashion/exib2a.jpg" title="NZ Fashion Week" class="fancybox" rel="group">
@@ -125,7 +126,7 @@
   <img src="/images/fashion/exib10ab.jpg" height="150" alt="NZ Fashion Week" class="img_link" /></a>
 
   <p>
-  <H2><a href="./price.php#portrait" target="blank">PRICE LIST</a></H2>     
+  <h2><a href="./price.php#portrait" target="blank">PRICE LIST</a></h2>
 
 </p>
 

@@ -1,88 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php $title = "How do we work?"; ?>
+<?php include_once("./templates/html_header.php");?>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <?php include_once("./templates/zahlavi.php");?>
-   <meta name="copyright" content="Copyright (c) 2013 Ivan Poul">
-   <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand"/>
-  <script>
-   <!--
-if (document.images) {
-  image1Ton = new Image();
-  image1Ton.src = "./images/postproduction/1.jpg";
+<script type="text/javascript" src="js/work.js"></script>
 
-  image1Toff = new Image();
-  image1Toff.src = "./images/postproduction/2.jpg";
-
-}
-
-function turnOn(image1) {
-  if (document.images) {
-    document[image1T].src = eval(image1T + "on.src");
-  }
-}
-
-function turnOff(image1T) {
-  if (document.images) {
-    document[image1T].src = eval(image1T + "off.src");
-  }
-}
--->
-
-<!--
-if (document.images) {
-  image2Ton = new Image();
-  image2Ton.src = "./images/postproduction/1.jpg";
-
-  image2Toff = new Image();
-  image2Toff.src = "./images/postproduction/3.jpg";
-
-}
-
-function turnOn(image2T) {
-  if (document.images) {
-    document[image2T].src = eval(image2T + "on.src");
-  }
-}
-
-function turnOff(image2T) {
-  if (document.images) {
-    document[image2T].src = eval(image2T + "off.src");
-  }
-}
--->
-</script>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<title>How do we work?</title> 
-
-  </head>
-
-  <body>
-    <div id="top">
-      <div id="logo">
-        <a href="http://www.bohemiaphotography.com/index.php"><img src="images/logo.jpg" alt="BohemiaPhorography.com" border="0" /></a>            
-      </div><!-- logo -->
-      <div>
-        <?php include_once('templates/top_menu.php');?>
-      </div>
-    </div>
-  
-    
-    <div id="main">
-           
-  
-   
-   <!-- PAGE CONTENT START -->
-   <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="2" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
    <br/>
    <br/>
    <br/>
@@ -108,16 +28,5 @@ onmouseover="window.status='Postproduction'; return true" onmouseout="window.sta
 <img name="image2T" src="images/postproduction/3.jpg" alt="TRETAMENT" width="400" border="0"
 onmouseover="window.status='Postproduction'; return true" onmouseout="window.status='SSSSSS'; return true" class="img_link" ></a>
 <div class="separator"></div>
-         
-  
-   <!-- PAGE CONTENT END -->
-     
 
-   
-      <div id="mbottom">
-        <?php include_once("templates/zapati.php");?>  
-      </div>
-    </div>
-
-  </body>
-</html>
+<?php include_once("./templates/html_footer.php");?>
