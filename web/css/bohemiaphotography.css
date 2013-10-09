@@ -44,7 +44,7 @@ body{
     margin-left: 0px;   
     float: left;
     padding-top: 0px;
-    padding-left: 50px;
+    padding-left: 250px;
 }
 
 #fb{ 
@@ -103,10 +103,10 @@ body{
 }
 
 #mright{
-    float: left;
+    float: center;
     width: 976px;
     padding: 20px 35px;
-    text-align: justify;
+    text-align: center;
 }
 
 #mbottom{
