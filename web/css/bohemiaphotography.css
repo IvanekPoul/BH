@@ -40,8 +40,9 @@ body{
 #logo img{border: 0px;margin:0px;}
 
 #fb{ 
-    margin-left: 2px;   
+    margin-left: 5px;   
     float: left;
+    padding-top: 3px;
 }
 #fbico{ 
     margin-left: 0px;   
