@@ -7,7 +7,14 @@
    <meta name="keywords" content="Pakuranga, Manukau, Auckland, professional photographer, photo atelier, photo studio, wedding, party, birthday, glamour, nude, act, color, black, kid, child, children, adult, fashion, art, Auckland, North Island, New Zealand">
 
 <title>Fashion</title> 
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
   </head>
 
   <body>
@@ -26,7 +33,10 @@
       <div id="mright">
    
    <!-- PAGE CONTENT START -->
-      <br>
+   <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="2" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
+      <br/>
+      <br/>
+      <br/>
    <h1>Fashion</h1> 
    <a href="/images/fashion/03102013-21.jpg" title="Fashion" rel="lightbox[g]">
   <img src="/images/fashion/03102013-21a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
