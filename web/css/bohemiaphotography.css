@@ -40,12 +40,12 @@ body{
 #logo img{border: 0px;margin:0px;}
 
 #fb{ 
-    margin-right: 5px;   
+    margin-left: 5px;   
     float: left;
     padding-top: 0px;
 }
 #fbico{ 
-    margin-right: 490px;   
+    margin-left: 50px;   
     float: left;
     padding-top: 0px;
 }
