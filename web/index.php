@@ -164,26 +164,23 @@ function turnOff(image8) {
 
   </head>
   <body>
-     <div id="top">
+    <div id="top">
        <div id="logo">
         <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>  
-   </div><!-- logo -->
-
-      <div>
+       </div><!-- logo -->
+       <div>
         <?php include_once('templates/top_menu.php');?>
-      </div>
-        <br/>
-        <div id="fbico">
-        <a href="https://www.facebook.com/bohemiaphotographycom" target="blank"><img src="./img/fb.jpg" height="20" alt="FaceBook"/></a>
-        </div>
-        <div id="fb" class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
-        </div>
-   </div>
+       </div>
+       <div id="fbico">
+        <a href="https://www.facebook.com/bohemiaphotographycom" target="blank"><img src="./img/fb.jpg" height="30" alt="Face Book"/></a>
+       </div>
+       <div id="fb" class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
+       </div>
+    </div>
    <br/>                                                     
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
- 
    <br/>
    <br/>
    <br/>
