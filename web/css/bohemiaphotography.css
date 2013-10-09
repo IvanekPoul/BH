@@ -39,6 +39,10 @@ body{
 }
 #logo img{border: 0px;margin:0px;}
 
+#FB{    
+    float: left;
+}
+
 #menu{
     width: 976px;
     height: 38px;
