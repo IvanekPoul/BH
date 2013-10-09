@@ -174,8 +174,7 @@ function turnOff(image8) {
        <div id="fbico">
        <img src="./img/fb.jpg" height="20" alt="FaceBook"/>
        </div>
-       <div id="fb">
-       <img src="./img/fb.jpg" height="20" alt="FaceBook" class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true"/>
+       <div id="fb" img src="./img/fb.jpg" height="20" alt="FaceBook" class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true"/>
        </div>
     </div>
    <br/>                                                     
