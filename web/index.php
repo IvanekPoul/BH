@@ -172,7 +172,7 @@ function turnOff(image8) {
       <div>
         <?php include_once('templates/top_menu.php');?>
       </div>
-        <br/>
+        
         <div id="fbico">
         <a href="https://www.facebook.com/bohemiaphotographycom" target="blank"><img src="./img/fb.jpg" height="20" alt="FaceBook"/></a>
         </div>
