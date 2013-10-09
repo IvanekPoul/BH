@@ -170,12 +170,12 @@ function turnOff(image8) {
        <div>
         <?php include_once('templates/top_menu.php');?>
        </div>
-       <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-send="true">
-       </div>                                                     
+                                                           
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
-   <br/>
+  <div id="fb" class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-send="true">
+       </div> 
    <br/>
    <br/>
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
