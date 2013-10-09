@@ -1,0 +1,242 @@
+/*bohemiaphotography.css */
+
+*{
+    padding: 0px;
+    margin: 0px auto; 
+    line-height: 18px;
+    color: white
+    /* text-decoration: none; */
+    /* color: #630; */
+}
+
+a{color: white;}
+a:hover{text-decoration: none;}
+h4 a{color: white;
+     text-decoration: none;}
+.grey{color: white;}
+.grey a{color: white;}
+    
+body{
+    background-image: url();
+    background-repeat: repeat-x;
+    background-color: rgb(23,23,23);
+    font: 0.8em Arial, Verdana, sans-serif, white;
+    text-align: center;
+    min-width: 976 px;
+}
+
+#top{976px;
+    height: 73px;
+    background: url() repeat-y center top;
+}
+
+#logo{
+    width: 300px;
+    height: 80px;
+    padding-top: 15px;
+    margin-left: 180px;
+    float: left;
+}
+#logo img{border: 0px;margin:0px;}
+
+
+#fbico{ 
+    margin-left: 0px;   
+    float: left;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+#fb{ 
+    margin-left: 5px;   
+    float: left;
+    padding-top: 0px;
+}
+
+#menu{
+    width: 976px;
+    height: 38px;
+    padding-top: 35px;
+    float: right;
+    color: #036;
+}
+
+#menu ul{
+    margin: 0px;
+    padding-top: 15px;
+}
+    
+#menu li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    font: normal bolder Verdana white;
+    margin-left: 12px;
+    margin-right: 10px;
+}
+ 
+#pict{
+    width: 976px;
+    height: 232px;
+    z-index:200;
+    /* background: url(pict.jpg) no-repeat center top; */
+}
+    
+#main{
+    width: 976px;
+    background: url() repeat-y center;
+}
+
+#mleft{
+    width: 250px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}    
+
+#mcenter{
+    margin-top: 20px;
+    width: 1px;
+    height: 200px;
+    float: left;
+    background-color: #aaa;
+}
+
+#mright{
+    float: center;
+    width: 976px;
+    padding: 20px 35px;
+    text-align: center;
+}
+
+#mbottom{
+    width: 976px;
+    height: 34px;
+    clear: both;
+    background: url() no-repeat;
+    text-align: left;
+    padding-left: 40px;
+}
+
+#left-menu{
+    width: 170px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+ #center-menu{
+    width: 550px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+#right-menu{
+    width: 200px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+
+p{
+    text-align: justify;
+    margin-bottom: 10px;
+}    
+
+h1{
+    text-align: left;
+    font-size: huge;
+    margin-bottom: 10px;
+    /* background-color: #036; */
+    color: white;
+    padding: 10px;
+}
+
+h2{
+    font-size: medium;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h3,h4{
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 10px;
+    /* background-color: #393; */
+    color:  white;
+    padding: 10px;
+}
+
+h4{
+    font-variant: small-caps;
+    margin: 0px;
+    padding: 5px;
+    color: white;
+}
+
+ul{
+    text-align: left;
+    padding-left: 30px;
+}
+
+.fl{float:left;
+    margin:10px;}
+.fr{float:right;
+    margin:10px;}
+.cb{clear:both;}
+.img_link{/* margin: 5px 10px; */
+    border: 0px solid #c30;}
+    
+table, td{
+    border: 1px solid rgb(50,50,50);
+    border-collapse: collapse;
+    text-align: left;    
+}
+
+address{
+    text-align: left;
+    font-style: normal;
+}
+label{    
+    font-weight: bold;
+    width: 60px;
+    float: left;
+}
+.cenik{
+    width: 380px;
+    float: left;
+    text-align: left;
+}
+
+.separator{
+    clear: both;
+    height: 40px;
+    width: max;
+}
+
+.foto{
+    float: left;
+    width: 375px;
+    height: 375px;
+    padding: 4px 10px;
+    text-align: center;
+}
+
+#nat_menu{
+    width: 989px;
+    text-align: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+#nat-top_menu{
+    width: 989px;
+    height: 400px;
+    text-align: left;
+    padding: 20px 35px;
+    text-align: left;
+}

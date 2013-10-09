@@ -150,14 +150,12 @@ function turnOff(image8) {
    }
 }
 -->
-</script>
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -171,12 +169,8 @@ function turnOff(image8) {
        <div>
         <?php include_once('templates/top_menu.php');?>
        </div>
-       <div id="fbico">
-       
-       </div>
-       <div id="fb">
-       <img src="./img/fb.jpg" height="20" alt="FaceBook"/>
-       <data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true" class="fb-like" >
+       <img src="./img/fb.jpg" height="20" alt="FaceBook">
+       <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="true" data-send="false">
        </div>
     </div>
    <br/>                                                     

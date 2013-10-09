@@ -172,11 +172,9 @@ function turnOff(image8) {
         <?php include_once('templates/top_menu.php');?>
        </div>
        <div id="fbico">
-       
-       </div>
-       <div id="fb">
        <img src="./img/fb.jpg" height="20" alt="FaceBook"/>
-       <data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true" class="fb-like" >
+       </div>
+       <div id="fb" class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="20" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
        </div>
     </div>
    <br/>                                                     
