@@ -167,8 +167,9 @@ function turnOff(image8) {
      <div id="top">
        <div id="logo">
         <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhotography.com" border="0" /></a>  
-        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="standard" data-action="like" data-show-faces="true" data-send="false"></div>          
-      </div><!-- logo -->
+   </div><!-- logo -->
+        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="true" data-send="false">
+        </div>
       <div>
         <?php include_once('templates/top_menu.php');?>
       </div>
