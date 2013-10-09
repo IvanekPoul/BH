@@ -171,8 +171,7 @@ function turnOff(image8) {
         <?php include_once('templates/top_menu.php');?>
        </div>
        <div class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-send="true">
-       </div>
-     <br/>                                                     
+       </div>                                                     
  <div id="main">
       <div id="mright">
    <!-- PAGE CONTENT START -->
