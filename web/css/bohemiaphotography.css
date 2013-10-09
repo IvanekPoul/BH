@@ -103,10 +103,10 @@ body{
 }
 
 #mright{
-    float: center;
+    float: left;
     width: 976px;
     padding: 20px 35px;
-    text-align: center;
+    text-align: justify;
 }
 
 #mbottom{
