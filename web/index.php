@@ -172,7 +172,8 @@ function turnOff(image8) {
       <div>
         <?php include_once('templates/top_menu.php');?>
       </div>
-       
+        <br/>
+        <br/>
       <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true">
       </div>
     </div>
