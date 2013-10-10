@@ -34,6 +34,7 @@ function newPopup(url) {
         <li><a href="./1.php">Cook Islanders</a></li>
         <li><a href="./2.php">The Bauhaus Photoshoot</a></li>
         <li><a href="./3.php">NZ Fashion Week</a></li>
+         <li><a href="./4.php">Iveta & Andrew</a></li>
       </ul>
   </li>      
   <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
