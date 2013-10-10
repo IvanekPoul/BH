@@ -20,6 +20,8 @@
 <img src="/images/wedding/201310114a.jpg" height="150" alt="Wedding" class="img_link" /></a>
 <a href="/images/wedding/201310116.jpg" title="Iveta & Andrew" class="fancybox" rel="group">
 <img src="/images/wedding/201310116a.jpg" height="150" alt="Wedding" class="img_link" /></a>
+<a href="/images/wedding/2013101120.jpg" title="Iveta & Andrew" class="fancybox" rel="group">
+<img src="/images/wedding/2013101120a.jpg" height="150" alt="Wedding" class="img_link" /></a>
 <a href="/images/wedding/wedding16.jpg" title="Wedding" class="fancybox" rel="group">
 <img src="/images/wedding/wedding16a.jpg" height="150" alt="Wedding" class="img_link" /></a>
 <a href="/images/wedding/wedding4.jpg" title="Wedding" class="fancybox" rel="group">
