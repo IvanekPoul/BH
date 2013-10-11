@@ -8,13 +8,14 @@
  <h1 class="nadpis"><span>Packages & Pricing</span></h1>
  <br/>
  <p>
-<h2>What we offer?</h2>
+WHAT WE OFFER?<br/>
 Our photogrpahic company if focussed on folowwing toppics:
 <br/>
-<h4><a href="./adults.php" target="blank">Portrait</a> - <a href="./weddings.php" target="blank">Wedding</a> 
+<strong>
+<a href="./adults.php" target="blank">Portrait</a> - <a href="./weddings.php" target="blank">Wedding</a> 
 - <a href="./family.php" target="blank"> Family & Kids</a> - <a href="./glamour.php" target="blank">Glamour</a> - <a href="./event.php" target="blank"> Events </a>
 - <a href="./fashion.php" target="blank"> Fashion</a> - <a href="./nature.php" target="blank"> Nature & Procut Photos</a>
-</h4>
+</strong>
 
 We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
 

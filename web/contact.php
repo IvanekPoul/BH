@@ -8,10 +8,10 @@
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
  <p>
-<h2>First Step</h2>  
+FIRST STEP<br/> 
 At first you should <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price of our service.
 <br/>
-<h2>Consultation</h2>
+CONSULTATION<br/>
 It is the easiest way how to reach fantastic photos. Having a chat with a professional it means discuss your intentions to find a perfect solution for you. 
 Not without success is our motto: <i>"Let us capture your unique soul"</i>. During the consultation we will explain you how to start the photo session, what 
 to wear on, what style of make-up will be perfect for the photo-session fitting with you special occasion.
@@ -19,7 +19,7 @@ to wear on, what style of make-up will be perfect for the photo-session fitting 
 We would like to give you a piece of advice moreover we will get some information about you. Book a consultation now, it's free! 
 During consultation we could easily arrange a price for the photo-session to your convenience.
 <br/>
-<h2>Pricing</h2>
+PRICING<br/>
 <strong>Contact us for photo-session/event pricing now! We are expecting your phone-call or e-mail.</strong>
 <br/>
 <br/>        
