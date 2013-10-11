@@ -4,7 +4,7 @@
    <br/>
    <br/>
    <br/>
-   <p>
+   <p align="justify">
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
 <h2>First Step</h2>  
@@ -23,8 +23,8 @@ During consultation we could easily arrange a price for the photo-session to you
 - <a href="./family.php" target="blank"> Family & Kids</a> - <a href="./glamour.php" target="blank">Galmour</a> - <a href="./event.php" target="blank"> Events </a>
 - <a href="./nature.php" target="blank"> Nature & Procut Photos</a>
 </h4>
-<br/>
-We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
+Our product is going to be perfect professional photos given on DVD in the best resulution and quality. It is a special service to you, you cand send the photos to your family via e-mail,
+share them on FACEBOOK and prit how many copies in different sizes as you like.
 <br/>
 Our photes goes throught basic or advanced digital retouch, learn more about a <a href="./work.php" target="blank">post-processing</a>.
 <br/>        
@@ -32,6 +32,8 @@ Do not hesitate to contact us with your special wish..., tell us your dreams on 
 <br/>
 <h2>Pricing</h2>
 <strong>Contact us for photo-session/event pricing now! We are expecting your phone-call or e-mail.</strong>
+We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
+<br/>
   
    <br/>
 
