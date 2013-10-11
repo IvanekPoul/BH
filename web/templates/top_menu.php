@@ -38,7 +38,6 @@ function newPopup(url) {
       </ul>
   </li>      
   <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
-  <li class="top"><a href="./price.php" class="top_link"><span>Price List</span></a></li>
   <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>	     
    </ul>
  <br>
