@@ -6,7 +6,7 @@
    <br/>
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
-<p>
+
 <h2>What to do?</h2>  
 The first step is to <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price.
 <br/>
