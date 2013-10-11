@@ -8,21 +8,29 @@
  <br/>
   <p align="justify">
 <h2>What to do?</h2>  
-<br/>
+<p>
 The first step is to <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price.
+</p>
 <br/>
 <h3>Consultation</h3>
+<p>
 It is the easiest way how to reach fantastic photos. Having a chat with a professional it means discuss your intentions to find a perfect solution for you. 
 Not without success is our motto: <i>"Let us capture your unique soul"</i>. During the consultation we will explain you how to start the photo session, what 
 to wear on, what style of make-up will be perfect for the photo-session fitting with you special occasion.
+</p>
 <br/>
+<p>
 We would like to give you a piece of advice moreover we will get some information about you. Book a consultation now, it's free! 
 During consultation we could easily arrange a price for the photo-session to your convenience.
+</p>
 <br/>
+<p>
 We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
-<br/>
+</p>
+<p>
 Do not hesitate to contact us with your special wish..., tell us your dreams on photo-session.
-<br/>
+</p>
+<p>
 <strong>Contact us for photo-session/event pricing now! We are expecting your phone-call.</strong>
 
    </p>
