@@ -38,7 +38,8 @@ function newPopup(url) {
       </ul>
   </li>      
   <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
-  <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>	     
+   <li class="top"><a href="./packages.php" class="top_link"><span>Photo Packages</span></a></li>	 
+   <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>    
    </ul>
  <br>
  <!-- TOP MENU END -->
