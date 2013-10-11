@@ -7,13 +7,18 @@
    <p align="justify">
  <h1 class="nadpis"><span>Packages & Pricing</span></h1>
  <br/>
+ <p>
 <h2>What we offer?</h2>
 Our photogrpahic company if focussed on folowwing toppics:
 <br/>
-<h4><a href="./adults.php" target="blank">Portrait</a> - <a href="./wedding.php" target="blank">Wedding</a> 
-- <a href="./family.php" target="blank"> Family & Kids</a> - <a href="./glamour.php" target="blank">Galmour</a> - <a href="./event.php" target="blank"> Events </a>
+<h4><a href="./adults.php" target="blank">Portrait</a> - <a href="./weddings.php" target="blank">Wedding</a> 
+- <a href="./family.php" target="blank"> Family & Kids</a> - <a href="./glamour.php" target="blank">Glamour</a> - <a href="./event.php" target="blank"> Events </a>
 - <a href="./fashion.php" target="blank"> Fashion</a> - <a href="./nature.php" target="blank"> Nature & Procut Photos</a>
 </h4>
+
+We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
+
+<br/>
 Our product is going to be perfect professional photos given on DVD in the best resulution and quality. 
 It is a special service to you, you cand send our product/photos to your family via e-mail,
 share them on FACEBOOK and prit out so many copies in different sizes as you like.
@@ -36,6 +41,6 @@ Photographer's transport within Auckland is included in a package.
 Final foto is beeng send by post or you can pick it up personally.
 
 We do not pay GST.
-
+</p>
 
 <?php include_once("./templates/html_footer.php");?>

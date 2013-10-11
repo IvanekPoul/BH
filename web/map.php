@@ -91,17 +91,16 @@
         </ul>  
 
      </li> 
+     
+	    <li ><a href="./news.php" ><span>NEWS</span></a></li> 
 
      <li ><a href="./about.php" ><span>About Us</span></a></li>   
 
-      <li><a href="./price.php">Price List</a></li> 
+      <li><a href="./packages.php">Photo Packages</a></li> 
 
       <li><a href="./contact.php">Contact</a></li>
 
-     
-
-	    <li ><a href="./news.php" ><span>NEWS</span></a></li> 
-
+         
           <ul> 
 
          <li ><a href="./map.php" ><span>Page Map</span></a></li> 

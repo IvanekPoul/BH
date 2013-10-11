@@ -7,6 +7,7 @@
    <p align="justify">
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
+ <p>
 <h2>First Step</h2>  
 At first you should <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price of our service.
 <br/>
@@ -20,11 +21,10 @@ During consultation we could easily arrange a price for the photo-session to you
 <br/>
 <h2>Pricing</h2>
 <strong>Contact us for photo-session/event pricing now! We are expecting your phone-call or e-mail.</strong>
-We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
 <br/>
 <br/>        
 Do not hesitate to contact us with your special wish..., tell us your dreams on photo-session.
-  
+ </p> 
    <br/>
 
 <h2>Address</h2>
