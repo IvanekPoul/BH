@@ -4,10 +4,11 @@
    <br/>
    <br/>
    <br/>
+   <p>
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
 
-<h2>What to do?</h2>  
+<h2>First Step</h2>  
 The first step is to <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price.
 <br/>
 <h2>Consultation</h2>
@@ -34,6 +35,8 @@ Do not hesitate to contact us with your special wish..., tell us your dreams on 
 <strong>Contact us for photo-session/event pricing now! We are expecting your phone-call or e-mail.</strong>
   
    <br/>
+
+<h2>Address</h2>
 <address>
   <strong>Ivan Poul & Katerina Dvorakova</strong><br />
 
@@ -51,7 +54,7 @@ Do not hesitate to contact us with your special wish..., tell us your dreams on 
      </p>
      <br />
      <br />
-     
+     </p>
      <div>
        <p align="center">
       <img src="./images/poul.jpg" width="500">
