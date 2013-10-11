@@ -11,7 +11,7 @@
 <a href="./price.php#wedding">Wedding</a>                         <br/>
 <a href="./price.php#product">Product</a>
     </p>
-    <H2>We offer 20 % spring DISCOUNT now, do not miss the booking!</H2>
+    
 <a name="portrait"></a>
 <h3>Portrait</h3>
 <p align="left">
