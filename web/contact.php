@@ -7,9 +7,8 @@
    <p>
  <h1 class="nadpis"><span>Contact</span></h1>
  <br/>
-
 <h2>First Step</h2>  
-The first step is to <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price.
+At first you should <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price.
 <br/>
 <h2>Consultation</h2>
 It is the easiest way how to reach fantastic photos. Having a chat with a professional it means discuss your intentions to find a perfect solution for you. 
