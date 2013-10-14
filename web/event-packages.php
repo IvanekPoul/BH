@@ -5,11 +5,10 @@
  <h1 class="nadpis"><span>Event & Product Packages</span></h1>
  <br/>
 <p align="left">
+Our product is going to be perfect professional photos given on DVD in the best resolution and quality.
+<br/>
 <img src="./img/price-event.jpg" width="600">
 <br/>
-A price for a wedding photography photo-session depends on difficulity of realisation (how big the wedding will be, our studio flashes in a church, number of photo-assistants, "Kiss" Package in a particular place etc.).
-The price will be completed after consultation and liason with client.
-  <br/>
  <br/>
 *We take many shots during the session and after go through first selection and deleting. This number means amount of best photos which will
 advance to your on-line selection.
