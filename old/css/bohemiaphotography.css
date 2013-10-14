@@ -25,31 +25,30 @@ body{
     min-width: 976 px;
 }
 
-#top{
-    /*height: 128px;*/
+#top{976px;
+    height: 73px;
     background: url() repeat-y center top;
 }
 
 #logo{
-    width: 288px;
-    height: 110px;
-    margin: 30px 0;
+    width: 300px;
+    height: 80px;
+    padding-top: 15px;
+    margin-left: 180px;
     float: left;
 }
-
 #logo img{border: 0px;margin:0px;}
 
-#fb{
-	display: block; 
-    margin: 0;   
-    padding: 0px;
+#fb{ 
+    margin-left: 0px;   
     float: right;
+    padding-top: 0px;
 }
 
 #menu{
     width: 976px;
     height: 38px;
-    margin-top: 35px;
+    padding-top: 35px;
     float: right;
     color: #036;
 }
@@ -77,6 +76,7 @@ body{
     
 #main{
     width: 976px;
+    background: url() repeat-y center;
 }
 
 #mleft{
@@ -95,8 +95,9 @@ body{
 }
 
 #mright{
+    float: center;
     width: 976px;
-    margin: 0 auto;
+    padding: 20px 35px;
     text-align: center;
 }
 
@@ -106,6 +107,7 @@ body{
     clear: both;
     background: url() no-repeat;
     text-align: left;
+    padding-left: 40px;
 }
 
 #left-menu{
@@ -129,11 +131,11 @@ body{
     text-align: left;
 }
 
+
 p{
     text-align: left;
     margin-bottom: 10px;
-}
-
+}    
 
 h1{
     text-align: left;
@@ -229,24 +231,4 @@ label{
     text-align: left;
     padding: 20px 35px;
     text-align: left;
-}
-
-.HeadGallery {
-	text-align: center;
-	margin: 0;
-}
-
-.HeadGallery > a > img {
-	width: 224px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	padding: 0;
-}
-
-.HeadGallery > a > img.img-right {
-	margin-right: 20px;
-}
-
-.clear {
-	clear: both;
 }
