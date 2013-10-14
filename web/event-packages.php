@@ -7,6 +7,7 @@
 <p align="left">
 Our product is going to be perfect professional photos given on DVD in the best resolution and quality.
 <br/>
+<br/>
 <img src="./img/price-event.jpg" width="600">
 <br/>
  <br/>
