@@ -16,15 +16,17 @@
       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    <div id="top">
-      <div id="logo">
-        <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhorography.com" border="0" /></a>            
-      </div><!-- logo -->
-      <div>
-        <?php include_once('templates/top_menu.php');?>
-      </div>
-    </div>
     <div id="main">
+    
+      <div id="top">
+        <div id="logo">
+          <a href="/index.php"><img src="images/logo.jpg" alt="BohemiaPhorography.com" border="0" /></a>            
+        </div><!-- logo -->
+        <div>
+          <?php include_once('templates/top_menu.php');?>
+        </div>
+        <div id="fb" class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-send="true"></div>
+      </div>    
+        
       <div id="mright">
-      <div id="fb" class="fb-like" data-href="https://www.facebook.com/bohemiaphotographycom" data-width="The pixel width of the plugin" data-height="30" data-colorscheme="dark" data-layout="standard" data-action="like" data-show-faces="false" data-send="true"></div>
       <!-- PAGE CONTENT START -->

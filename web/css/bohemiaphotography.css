@@ -25,16 +25,15 @@ body{
     min-width: 976 px;
 }
 
-#top{976px;
-    height: 73px;
+#top{
+    height: 170px;
     background: url() repeat-y center top;
 }
 
 #logo{
     width: 300px;
     height: 80px;
-    padding-top: 15px;
-    margin-left: 180px;
+    margin-top: 15px;
     float: left;
 }
 #logo img{border: 0px;margin:0px;}
@@ -48,7 +47,7 @@ body{
 #menu{
     width: 976px;
     height: 38px;
-    padding-top: 35px;
+    margin-top: 35px;
     float: right;
     color: #036;
 }
@@ -76,7 +75,6 @@ body{
     
 #main{
     width: 976px;
-    background: url() repeat-y center;
 }
 
 #mleft{
@@ -95,9 +93,8 @@ body{
 }
 
 #mright{
-    float: center;
     width: 976px;
-    padding: 20px 35px;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -131,11 +128,11 @@ body{
     text-align: left;
 }
 
-
 p{
     text-align: left;
     margin-bottom: 10px;
-}    
+}
+
 
 h1{
     text-align: left;
@@ -231,4 +228,12 @@ label{
     text-align: left;
     padding: 20px 35px;
     text-align: left;
+}
+
+.HeadGallery {
+	margin: 0 auto 35px auto;
+}
+
+.HeadGallery > a > img {
+	margin: 15px;
 }
