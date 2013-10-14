@@ -1,10 +1,5 @@
 <?php $title = "Weddings"; ?>
 <?php include_once("./templates/html_header.php");?>
-
-<br/>
-<br/>
-<br/>
-
 <h1>Weddings</h1>
 
 <br/>

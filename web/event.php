@@ -1,9 +1,6 @@
 <?php $title = "Events & Product Photos"; ?>
 <?php include_once("./templates/html_header.php");?>
 
- <br/>
- <br/>
- <br/>
 <h1>Events & Product Photos </h1>
 <br/>
    

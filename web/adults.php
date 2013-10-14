@@ -1,9 +1,6 @@
 <?php $title = "Adults and Fashion Photos"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-<br/>
-<br/>
-<br/>
 <h1>Adults & Portrait</h1>
 <br/>
 

@@ -3,9 +3,6 @@
 
 <script type="text/javascript" src="js/work.js"></script>
 
-   <br/>
-   <br/>
-   <br/>
 <h1>How do We Work?</h1>
 <br/>
 <p>

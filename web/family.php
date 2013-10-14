@@ -1,9 +1,6 @@
 <?php $title = "Family & Kids"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-<br/>
-<br/>
-<br/>
 
 <h1>Family & Kids Photos </h1>
 <br/>

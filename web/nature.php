@@ -1,9 +1,6 @@
 <?php $title = "Nature"; ?>
 <?php include_once("./templates/html_header.php");?>
 
- <br/>
- <br/>
- <br/>
 
 <h1>Nature & Travel</h1>
 

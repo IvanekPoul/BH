@@ -2,9 +2,6 @@
 <?php include_once("./templates/html_header.php");?>
 
 
-   <br/>
-   <br/>
-   <br/>
 
    <h1>The Bauhaus Photoshoot</h1>
 

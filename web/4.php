@@ -2,10 +2,6 @@
 <?php include_once("./templates/html_header.php");?>
 
 
-   <br/>
-   <br/>
-   <br/>
-
    <h1>Iveta & Andrew</h1>
 
      <br/>

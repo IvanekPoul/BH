@@ -2,9 +2,7 @@
 <?php include_once("./templates/html_header.php");?>
 <script type="text/javascript" src="js/index.js"></script>
 
-   <br/>
-   <br/>
-   <br/>
+<div class="HeadGallery">
 <a href="./adults.php" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
 <img name="image1" src="images/top/adults1.jpg" alt="ADULTS" width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
@@ -29,8 +27,8 @@
 <a href="./architecture.php" onMouseOver="turnOn('image8')" onMouseOut="turnOff('image8')">
 <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
   onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-<br/>  
- <br/>
+</div>
+
 <p>
 Let Us Capture Your Unique Soul!
 <br/>

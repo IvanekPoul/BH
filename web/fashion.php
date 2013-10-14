@@ -1,9 +1,7 @@
 <?php $title = "Fashion"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-      <br/>
-      <br/>
-      <br/>
+
    <h1>Fashion</h1> 
    <a href="/images/fashion/03102013-21.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/03102013-21a.jpg" height="150" alt="Fashion" class="img_link" /></a> 

@@ -1,9 +1,6 @@
 <?php $title = "Contact"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-   <br/>
-   <br/>
-   <br/>
    <p align="justify">
  <h1 class="nadpis"><span>Packages & Pricing</span></h1>
  <br/>

@@ -1,10 +1,6 @@
 <?php $title = "Architecture"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-<br/>
-<br/>
-<br/>
-
 <h1>Architecture</h1>
 
 <br/>

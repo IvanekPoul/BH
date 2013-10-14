@@ -1,9 +1,7 @@
 <?php $title = "About Us"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-   <br/>
-   <br/>
-   <br/>
+
 
 <h1>About Us</h1>
 

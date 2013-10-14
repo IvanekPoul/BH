@@ -1,9 +1,6 @@
 <?php $title = "News"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-   <br/>
-   <br/>
-   <br/>
    <h1>NZ Fashion Week</h1>
    
     <br/>  
