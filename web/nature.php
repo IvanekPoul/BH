@@ -10,9 +10,6 @@
 
  <h2> Countryside</h2>
 
-
-
- </a>
  <a href="/images/country/201310091.jpg" title="Waihi Beach" class="fancybox" rel="group">
   <img src="/images/country/201310091a.jpg" height="130" alt="Beach" class="img_link" /></a> 
    <a href="/images/country/2013100911.jpg" title="Waihi Beach" class="fancybox" rel="group">
