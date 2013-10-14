@@ -1,4 +1,4 @@
-<?php $title = "Contact"; ?>
+<?php $title = "Photo Packages"; ?>
 <?php include_once("./templates/html_header.php");?>
 
    <p align="justify">
@@ -50,7 +50,7 @@ We do not pay GST.
  <br/>
  <br/>
  PACKAGES:<br/>
-<a href="./wedding-package.php" target="blank">Wedding Packages</a> <br/>
+<a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
 <a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
 <a href="./event-packages.php" target="blank">Events & Product Packages</a>
 
