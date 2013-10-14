@@ -4,10 +4,8 @@
    <p align="justify">
  <h1 class="nadpis"><span>Portrait Packages</span></h1>
  <br/>
- <a name="portrait"></a>
-<h3>Portrait</h3>
 <p align="left">
-<img src="./img/price-portrait.jpg" width="900">
+<img src="./img/price-portrait.jpg" width="600">
 <br/>
 *We take many shots during the session and after go through first selection and deleting. This number means amount of best photos which will
 advance to your on-line selection.

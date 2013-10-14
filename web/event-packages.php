@@ -1,11 +1,11 @@
-<?php $title = "Wedding packages"; ?>
+<?php $title = "Event & Product Packages"; ?>
 <?php include_once("./templates/html_header.php");?>
 
    <p align="justify">
- <h1 class="nadpis"><span>Wedding Packages</span></h1>
+ <h1 class="nadpis"><span>Event & Product Packages</span></h1>
  <br/>
 <p align="left">
-<img src="./img/price-wedding.jpg" width="600">
+<img src="./img/price-event.jpg" width="600">
 <br/>
 A price for a wedding photography photo-session depends on difficulity of realisation (how big the wedding will be, our studio flashes in a church, number of photo-assistants, "Kiss" Package in a particular place etc.).
 The price will be completed after consultation and liason with client.
