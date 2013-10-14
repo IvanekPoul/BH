@@ -17,7 +17,7 @@ Our photographic company if focussed on following topics:
 </strong>
  <br/>
  <br/>
-We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Kiss session"</i>, <i>"Middle"</i>package = Kiss session + Ceremony, <i>"Big"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
+We offer remedial packages in different prices e.g. <strong>Wedding Photography</strong>: <i>"Small"</i> = Ceremony, <i>"Middle" </i>package = Kiss session + Ceremony, <i>"Full"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.)
 <br/>
 <br/>
 Our product is going to be perfect professional photos given on DVD in the best resolution and quality. 
