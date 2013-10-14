@@ -75,12 +75,8 @@
   <img src="/images/fashion/fashion12b.jpg" height="150" alt="Fashion" class="img_link" /></a>
   <a href="/images/fashion/fashion13.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/fashion13b.jpg" height="150" alt="Fashion" class="img_link" /></a>
-    <a href="/images/fashion/fashion14.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/fashion14b.jpg" height="150" alt="Fashion" class="img_link" /></a>
-  <a href="/images/fashion/fashion15.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/fashion15b.jpg" height="150" alt="Fashion" class="img_link" /></a>
-    
-  <a href="/images/fashion/fashion16jpg" alt="Fashion" class="img_link" />
+   
+     <a href="/images/fashion/fashion16jpg" alt="Fashion" class="img_link" />
     <img src="/images/fashion/fashion16b.jpg" height="150" alt="Fashion" class="img_link" />
   </a>
   
