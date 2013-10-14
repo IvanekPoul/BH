@@ -31,7 +31,8 @@ advance to your on-line selection.
  <br/>
  <br/>
 This number means number of photos chosen by you on-line. The same amount will go through post-production (basic or advanced) 
-and is going to be supplied to you.
+and is going to 
+be supplied to you.
   <br/>
   <br/>
 Post-processing is an integral part of final product, we do not provide untouched photos. Post-production examples are shoved 
@@ -47,12 +48,6 @@ Photographer's transport within Auckland is included in a package.
     Final photos are sending by post or you can pick it up personally.
      <br/>
 We do not pay GST.
- <br/>
- <br/>
- PACKAGES:<br/>
-<a href="./wedding-package.php" target="blank">Wedding Packages</a> <br/>
-<a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
-<a href="./event-packages.php" target="blank">Events & Product Packages</a>
 
 </p>
 

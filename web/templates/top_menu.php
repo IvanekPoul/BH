@@ -26,7 +26,7 @@ function newPopup(url) {
   <li class="top"><a class="top_link"><span>About Us</span> </a>
      <ul class="sub">
         <li><a href="./about.php">About Us</a></li>
-        <li><a href="./work.php">How do We Work</a></li>
+        <li><a href="./work.php">How Do We Work</a></li>
      </ul>
         </li> 
   <li class="top"><a class="top_link"><span>NEWS</span> </a> 
@@ -38,6 +38,15 @@ function newPopup(url) {
       </ul>
   </li>      
   <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li>
+   <li class="top"><a class="top_link"><span>Photo Packages</span> </a> 
+      <ul class="sub">
+        <li><a href="./packages.php">What We Offer?</a></li>
+        <li><a href="./wedding-packages.php">Wedding Packages</a></li>
+        <li><a href="./portrait-packages.php">Portrait Packages</a></li>
+         <li><a href="./event-packages.php">Event & Product Packages</a></li>
+      </ul>
+  </li>  
+  
    <li class="top"><a href="./packages.php" class="top_link"><span>Photo Packages</span></a></li>	 
    <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>    
    </ul>
