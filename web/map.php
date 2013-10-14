@@ -96,7 +96,13 @@
 
      <li ><a href="./about.php" ><span>About Us</span></a></li>   
 
-      <li><a href="./packages.php">Photo Packages</a></li> 
+      <li>Photo Packages 
+      <ul >
+        <li><a href="./packages.php">What We Offer?</a></li>
+        <li><a href="./wedding-packages.php">Wedding Packages</a></li>
+        <li><a href="./portrait-packages.php">Portrait Packages</a></li>
+         <li><a href="./event-packages.php">Event & Product Packages</a></li>
+      </ul>
 
       <li><a href="./contact.php">Contact</a></li>
 

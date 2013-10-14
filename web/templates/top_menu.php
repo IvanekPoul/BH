@@ -45,10 +45,8 @@ function newPopup(url) {
         <li><a href="./portrait-packages.php">Portrait Packages</a></li>
          <li><a href="./event-packages.php">Event & Product Packages</a></li>
       </ul>
-  </li>  
-  
-   <li class="top"><a href="./packages.php" class="top_link"><span>Photo Packages</span></a></li>	 
-   <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>    
+  </li> 
+      <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>    
    </ul>
  <br>
  <!-- TOP MENU END -->
