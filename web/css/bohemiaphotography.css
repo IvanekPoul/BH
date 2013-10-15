@@ -111,27 +111,23 @@ body{
 #left-menu-text{
     width: 180px;
     float: left;
-    padding: 5px 5px;
-    text-align: left;
+    text-align: justify;
 }
 
 #left-menu-photo{
     width: 300px;
     float: left;
-    padding: 5px 5px;
     text-align: left;
 }
 
 #right-menu-text{
     width: 180px;
     float: left;
-    padding: 5px 5px;
-    text-align: left;
+    text-align: justify;
 }
 #right-menu-photo{
     width: 300px;
     float: left;
-    padding: 5px 5px;
     text-align: left;
 }
 
