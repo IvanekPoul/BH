@@ -23,17 +23,17 @@ from common plain shot.
 <a name="work-with-light">   </a>  
 WORK WITH LIGHT
   <br/>
-<img src="./images/work/light1a.jpg"> 
-<img src="./images/work/light2a.jpg">
-<img src="./images/work/light3a.jpg"> 
+<img src="./images/work/light1a.jpg" height="300"> 
+<img src="./images/work/light2a.jpg" height="300">
+<img src="./images/work/light3a.jpg" height="300"> 
   <br/>
   <br/>        
 <a name="client-care">   </a>   
 CLIENT CARE
   <br/>
-<img src="./images/work/carea.jpg">
-<img src="./images/work/light2a.jpg">
-<img src="./images/work/light3a.jpg">
+<img src="./images/work/carea.jpg" height="300">
+<img src="./images/work/light2a.jpg" height="300">
+<img src="./images/work/light3a.jpg" height="300">
   <br/>
   <br/>        
 <a name="post-processing">   </a> 
