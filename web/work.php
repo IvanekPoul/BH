@@ -46,11 +46,11 @@ background adjustments, lighting corrections, etc.
 Here we would like to show, how our photo postproduction works. Try to move your mouse over the picture below to see before and after.
   <br/>
   <br/>
-<a href="./images/postproduction/2.jpg" onMouseOver="turnOn('image1T')" onMouseOut="turnOff('image1T')" rel="lightbox[g]">
+<a href="./images/postproduction/2.jpg" onMouseOver="turnOn('image1T')" onMouseOut="turnOff('image1T')" class="fancybox" rel="group">
 <img name="image1T" src="images/postproduction/2.jpg" alt="Postproduction" width="300" border="0"
   onmouseover="window.status='Postproduction'; return true" onmouseout="window.status='SSSSSS'; return true" class="img_link" ></a>
 
-<a href="./images/postproduction/3.jpg" onMouseOver="turnOn('image2T')" onMouseOut="turnOff('image2T')" rel="lightbox[g]">
+<a href="./images/postproduction/3.jpg" onMouseOver="turnOn('image2T')" onMouseOut="turnOff('image2T')" class="fancybox" rel="group">
 <img name="image2T" src="images/postproduction/3.jpg" alt="TRETAMENT" width="300" border="0"
   onmouseover="window.status='Postproduction'; return true" onmouseout="window.status='SSSSSS'; return true" class="img_link" ></a>
 </p>
