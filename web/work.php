@@ -5,10 +5,13 @@
 
 <h1>How Do We Work?</h1>
  <br/>
+ <p>
+ Topics:
+ <br/>
 <a href="./work.php#work-with-light">Work With Light</a>, 
 <a href="./work.php#client-care">Client Care</a>, 
 <a href="./work.php#post-processing">Post-Processing</a>,
-
+</p>
 <p>
 We offer to our clients photo-sessions outdoor (park, countryside, town, beach, wharf etc.) and indoor (our photo studio, church, concert hall, exhibition centre etc.).
 For the best studio photography we use 3 professional 600 W studio flash-lights and various backgrounds. 

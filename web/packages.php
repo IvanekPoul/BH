@@ -39,7 +39,7 @@ It is a special service to you, you can send the photos to your family and frien
 share them on FACEBOOK and print out as many copies of different sizes as you like. 
 <br/>
 Our photos go through a basic or an advanced digital retouch, learn more about it here - <a 
-href="./work.php" target="blank">post-processing</a>. 
+href="./work.php#post-processing" target="blank">post-processing</a>. 
 <br/> 
 We take many shots during the session and then go through first selection and deleting. Those 
 shots will be advanced to your on-line selection.
@@ -51,7 +51,7 @@ and are going to be supplied to you on DVD/CD.
 <br/> 
 Post-processing is an integral part of final product, we do not provide untouched photos. Post-
 production examples are shown 
-in <a href="./work.php" target="blank" target="blank">How Do We Work</a> section. 
+in <a href="./work.php#post-processing" target="blank">How Do We Work</a> section. 
 <br/> 
 <br/> 
 We highly recommend advanced post-processing in following cases: you have problems with 
