@@ -23,17 +23,17 @@ from common plain shot.
 <a name="work-with-light">   </a>  
 WORK WITH LIGHT
   <br/>
-<img src="./images/work/light1a.jpg" height="255"> 
-<img src="./images/work/light2a.jpg" height="255">
-<img src="./images/work/light3a.jpg" height="255"> 
+<a href="/images/work/light1.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light1a.jpg" height="255"> </a>
+<a href="/images/work/light2.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light2a.jpg" height="255"> </a>
+<a href="/images/work/light3.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light3a.jpg" height="255"> </a>
   <br/>
   <br/>        
 <a name="client-care">   </a>   
 CLIENT CARE
   <br/>
-<img src="./images/work/carea.jpg" height="255">
-<img src="./images/work/care1a.jpg" height="255">
-<img src="./images/work/care2a.jpg" height="255">
+<a href="/images/work/carea.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/carea.jpg" height="255">   </a>
+<a href="/images/work/care1.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/care1a.jpg" height="255">  </a>
+<a href="/images/work/care2.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/care2a.jpg" height="255">  </a>
   <br/>
   <br/>        
 <a name="post-processing">   </a> 
