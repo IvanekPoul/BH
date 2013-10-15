@@ -35,6 +35,7 @@
         <ul>
         <li><a href="./about.php">About Us</a></li>
         <li><a href="./work.php">How Do We Work</a></li>
+        <li><a href="./packages.php">What We Offer?</a></li>
         </ul>
      </li> 
      
@@ -46,7 +47,7 @@
       <li>Photo Packages 
       
       <ul >
-        <li><a href="./packages.php">What We Offer?</a></li>
+        
         <li><a href="./wedding-packages.php">Wedding Packages</a></li>
         <li><a href="./portrait-packages.php">Portrait Packages</a></li>
          <li><a href="./event-packages.php">Event & Product Packages</a></li>
