@@ -8,9 +8,8 @@
  <p>
  TOPICS:
  <br/>
-
-<a href="./work.php#work-with-light">Work With Light</a>, 
 <a href="./work.php#client-care">Client Care</a>, 
+<a href="./work.php#work-with-light">Work With Light</a>, 
 <a href="./work.php#post-processing">Post-Processing</a>,
 <br/>
 <br/>
@@ -22,16 +21,7 @@ from common plain shot.
                     
   <br/>
   <br/>
-<a name="work-with-light">   </a>  
-WORK WITH LIGHT
-  <br/>
-  
-<a href="/images/work/light1.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light1a.jpg" height="255"> </a>
-<a href="/images/work/light2.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light2a.jpg" height="255"> </a>
-<a href="/images/work/light3.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light3a.jpg" height="255"> </a>
-  
-  <br/>
-  <br/>        
+     
 <a name="client-care">   </a>   
 CLIENT CARE
   <br/>
@@ -41,7 +31,17 @@ CLIENT CARE
 <a href="/images/work/care2.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/care2a.jpg" height="255">  </a>
   
   <br/>
-  <br/>        
+  <br/> 
+  <a name="work-with-light">   </a>  
+WORK WITH LIGHT
+  <br/>
+  
+<a href="/images/work/light1.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light1a.jpg" height="255"> </a>
+<a href="/images/work/light2.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light2a.jpg" height="255"> </a>
+<a href="/images/work/light3.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light3a.jpg" height="255"> </a>
+  
+  <br/>
+  <br/>              
 <a name="post-processing">   </a> 
 POST-PROCESSING
 <br/>     
