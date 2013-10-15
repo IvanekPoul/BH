@@ -6,9 +6,9 @@
 <h1>How Do We Work?</h1>
  <br/>
  <p>
- Topics:
+ TOPICS:
  <br/>
- <p>
+
 <a href="./work.php#work-with-light">Work With Light</a>, 
 <a href="./work.php#client-care">Client Care</a>, 
 <a href="./work.php#post-processing">Post-Processing</a>,
@@ -19,32 +19,32 @@ For the best studio photography we use 3 professional 600 W studio flash-lights 
 Outdoors is commonly used collapsible reflector or non-frontal remote flash.
 In a special occasion we are able mooving our studio equipment into your choosen place (workshop, church...). All our images go through software post-processing turning you into profesionally looking photo model and making art work 
 from common plain shot.  
-</p>                    
+                    
   <br/>
   <br/>
 <a name="work-with-light">   </a>  
 WORK WITH LIGHT
   <br/>
-  <p>
+  
 <a href="/images/work/light1.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light1a.jpg" height="255"> </a>
 <a href="/images/work/light2.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light2a.jpg" height="255"> </a>
 <a href="/images/work/light3.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light3a.jpg" height="255"> </a>
-  </p>
+  
   <br/>
   <br/>        
 <a name="client-care">   </a>   
 CLIENT CARE
   <br/>
-  <p>
+  
 <a href="/images/work/carea.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/carea.jpg" height="255">   </a>
 <a href="/images/work/care1.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/care1a.jpg" height="255">  </a>
 <a href="/images/work/care2.jpg" title="Client Care" class="fancybox" rel="group"><img src="./images/work/care2a.jpg" height="255">  </a>
-  </p>
+  
   <br/>
   <br/>        
 <a name="post-processing">   </a> 
 POST-PROCESSING
-  <p>    
+<br/>     
 <strong>Basic</strong> post-processing contains white balance, colour and exposure correction, sharpening, cropping, etc.
   <br/> 
   <br/>
