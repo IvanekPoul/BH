@@ -3,7 +3,7 @@
          
 
    <h1 >Page Map</h1>
-
+     <p>
     
      <li ><a href="/index">Home</a></li>
 
@@ -57,7 +57,7 @@
       <li ><a href="./map.php" ><span>Page Map</span></a></li> 
 
       <li ><a href="./about.php" ><span>Katerina Dvorakova & Ivan Poul</span></a></li> 
-
+       </p>
       <br/>
       <br/>
      
