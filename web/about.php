@@ -31,5 +31,7 @@
    <?php include_once("./templates/right-menu-text.php");?>
 
    </div>
+   <br/>
+      <br/>
 
 <?php include_once("./templates/html_footer.php");?>

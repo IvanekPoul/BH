@@ -109,9 +109,9 @@ body{
 }
 
 #left-menu-text{
-    width: 180px;
+    width: 175px;
     float: left;
-    margin-right: 5px;
+    margin-right: 10px;
     text-align: justify;
 }
 
@@ -123,14 +123,14 @@ body{
 }
 
 #right-menu-text{
-    width: 180px;
+    width: 175px;
     float: left;
     text-align: justify;
 }
 #right-menu-photo{
     width: 300px;
     float: left;
-    margin-right: 5px;
+    margin-right: 10px;
     text-align: left;
 }
 
