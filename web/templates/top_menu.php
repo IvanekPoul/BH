@@ -13,7 +13,7 @@ function newPopup(url) {
   <li class="top"><a href="./index.php" class="top_link"><span>Home</span></a></li> 
   <li class="top"><a class="top_link"><span>Gallery</span></a>
 		<ul class="sub">
-        <li><a href="./adults.php">Adult Portrait</a></li>
+        <li><a href="./adults.php">Adults Portrait</a></li>
         <li><a href="./event.php">Events & Product Photo</a></li>
         <li><a href="./family.php">Family & Kids</a></li>
         <li><a href="./fashion.php">Fashion</a></li>

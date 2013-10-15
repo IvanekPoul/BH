@@ -10,7 +10,7 @@ Our photographic company if focussed on following topics:
 <br/>
 <br/>
 <strong>
-<a href="./adults.php" target="blank"> Adult Portrait</a> 
+<a href="./adults.php" target="blank"> Adults Portrait</a> 
 - <a href="./family.php" target="blank"> Family & Kids</a> 
 - <a href="./fashion.php" target="blank"> Fashion</a> 
 - <a href="./glamour.php" target="blank"> Glamour & Nude</a> 
@@ -26,9 +26,15 @@ strong>: <i>"Small"</i> = Ceremony, <i>"Middle" </i>package = Kiss session + Cer
 <i>"Full"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.) 
 <br/> 
 <br/> 
+ PACKAGES:<br/>
+<a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
+<a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
+<a href="./event-packages.php" target="blank">Events & Product Packages</a>
+<br/>
+<br/> 
 Our product is going to be perfect professional photos on DVD/CD in the best resolution and 
  quality. 
-
+<br/>
 It is a special service to you, you can send the photos to your family and friends via e-mail, 
 share them on FACEBOOK and print out as many copies of different sizes as you like. 
 <br/>
@@ -63,12 +69,7 @@ Final DVD/CD with photos are sent by post or you can pick it up personally.
 We do not pay GST.
  <br/>
  <br/>
- PACKAGES:<br/>
-<a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
-<a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
-<a href="./event-packages.php" target="blank">Events & Product Packages</a>
-<br/>
-<br/>  
+ 
 </p>
 
 <?php include_once("./templates/html_footer.php");?>
