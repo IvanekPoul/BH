@@ -18,6 +18,7 @@ Our product is going to be perfect professional photos given on DVD in the best 
 <br/>
 <br/>
 ***Post-processing is an integral part of final product, we do not provide untouched photos. Post-processing examples are shown in How Do We Work section.
-
+<br/> 
+<br/> 
 
 <?php include_once("./templates/html_footer.php");?>

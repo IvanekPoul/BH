@@ -33,7 +33,7 @@ Our product is going to be perfect professional photos on DVD/CD in the best res
 It is a special service to you, you can send the photos to your family and friends via e-mail, 
 share them on FACEBOOK and print out as many copies of different sizes as you like. 
 <br/>
-Our photos goes through basic or advanced digital retouch, learn more about it here - <a 
+Our photos go through a basic or an advanced digital retouch, learn more about it here - <a 
 href="./work.php" target="blank">post-processing</a>. 
 <br/> 
 We take many shots during the session and then go through first selection and deleting. Those 
@@ -53,10 +53,13 @@ We highly recommend advanced post-processing in following cases: you have proble
 your skin, you want reduce wrinkles or 
 fix your make-up event photos are taken in hot weather (make-up instability), 
 your photos are for commerce purposes etc. 
-<br/> 
+<br/>
+<br/>  
 Photographer's transport within Auckland is included in a package. 
 <br/> 
+<br/> 
 Final DVD/CD with photos are sent by post or you can pick it up personally. 
+<br/> 
 <br/> 
 We do not pay GST.
  <br/>
@@ -65,7 +68,8 @@ We do not pay GST.
 <a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
 <a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
 <a href="./event-packages.php" target="blank">Events & Product Packages</a>
-
+<br/>
+<br/>  
 </p>
 
 <?php include_once("./templates/html_footer.php");?>
