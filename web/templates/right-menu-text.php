@@ -24,7 +24,7 @@ I am most interested in taking photographs of Events, Glamour, Nature and photo 
       </p>
       </ul>
 
-<div class="separator"></div>
+
 
 
 

@@ -109,30 +109,29 @@ body{
 }
 
 #left-menu-text{
-    width: 200px;
+    width: 180px;
     float: left;
-    padding: 20px 35px;
+    padding: 5px 5px;
     text-align: left;
 }
 
 #left-menu-photo{
     width: 300px;
     float: left;
-    padding: 20px 35px;
+    padding: 5px 5px;
     text-align: left;
 }
 
-
 #right-menu-text{
-    width: 200px;
+    width: 180px;
     float: left;
-    padding: 20px 35px;
+    padding: 5px 5px;
     text-align: left;
 }
 #right-menu-photo{
     width: 300px;
     float: left;
-    padding: 20px 35px;
+    padding: 5px 5px;
     text-align: left;
 }
 

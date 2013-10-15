@@ -24,7 +24,7 @@ As a graduated architect, I am focused on details and creative approach, the fin
 
       </ul>
 
-<div class="separator"></div>
+
 
 
 
