@@ -43,7 +43,7 @@ function newPopup(url) {
         <li><a href="./packages.php">What We Offer?</a></li>
         <li><a href="./wedding-packages.php">Wedding Packages</a></li>
         <li><a href="./portrait-packages.php">Portrait Packages</a></li>
-         <li><a href="./event-packages.php">Event & Product Packages</a></li>
+         <li><a href="./event-packages.php">Events & Product Packages</a></li>
       </ul>
   </li> 
       <li class="top"><a href="./contact.php" class="top_link"><span>Contact</span></a></li>    

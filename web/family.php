@@ -2,7 +2,7 @@
 <?php include_once("./templates/html_header.php");?>
 
 
-<h1>Family & Kids Photos </h1>
+<h1>Family & Kids </h1>
 <br/>
 <a href="/images/family/family7.jpg" title="Family Photos" class="fancybox" rel="group">
 

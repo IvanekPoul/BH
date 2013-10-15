@@ -1,7 +1,7 @@
 <?php $title = "Events & Product Photos"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-<h1>Events & Product Photos </h1>
+<h1>Events & Product Photo </h1>
 <br/>
    
 <a href="/images/events/t1.jpg" title="Events" class="fancybox" rel="group">
