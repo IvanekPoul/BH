@@ -108,29 +108,36 @@ body{
     text-align: left;
 }
 
-#left-menu{
-    width: 170px;
-    float: left;
-    padding: 20px 35px;
-    text-align: left;
-}
-
- #center-menu{
-    width: 550px;
-    float: left;
-    padding: 20px 35px;
-    text-align: left;
-}
-
-#right-menu{
+#left-menu-text{
     width: 200px;
     float: left;
     padding: 20px 35px;
     text-align: left;
 }
 
-p{
+#left-menu-photo{
+    width: 300px;
+    float: left;
+    padding: 20px 35px;
     text-align: left;
+}
+
+
+#right-menu-text{
+    width: 200px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+#right-menu-photo{
+    width: 300px;
+    float: left;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+p{
+    text-align: justify;
     margin-bottom: 10px;
 }
 

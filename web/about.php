@@ -7,17 +7,28 @@
 
     <br/>     
 
-   <div id="center-menu">
+   <div id="left-menu-text">
 
-   <?php include_once("./templates/center_menu.php");?>
+   <?php include_once("./templates/left-menu-text.php");?>
 
    </div>
 
+      <div id="left-menu-photo">
+
+   <?php include_once("./templates/left-menu-photo.php");?>
+
+   </div>
    
 
-   <div id="right-menu">
+   <div id="right-menu-photo">
 
-   <?php include_once("./templates/right_menu.php");?>
+   <?php include_once("./templates/right-menu-photo.php");?>
+
+   </div>
+   
+    <div id="right-menu-text">
+
+   <?php include_once("./templates/right-menu-text.php");?>
 
    </div>
 
