@@ -54,7 +54,8 @@
       </ul>
 
       <li><a href="./contact.php">Contact</a></li>
-
+        <br/>
+        <br/>
       <li ><a href="./map.php" ><span>Page Map</span></a></li> 
 
       <li ><a href="./about.php" ><span>Katerina Dvorakova & Ivan Poul</span></a></li> 

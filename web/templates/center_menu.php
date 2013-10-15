@@ -8,7 +8,7 @@
 
 </ul>
 
-  <img src="./images/katerina.jpg" alt="Katerina" title="Katerina" width="600" height="324">
+  <img src="./images/work/kata.jpg" alt="Katerina" title="Katerina" >
 
                                  <br>
 
@@ -16,7 +16,7 @@
 
                                  <br>
 
-  <img src="./images/poul.jpg" alt="Ivan" title="Ivan" width="600" height="315">
+  <img src="./images/work/ivan.jpg" alt="Ivan" title="Ivan" >
 
 <br>
 

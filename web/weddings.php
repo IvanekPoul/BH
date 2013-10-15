@@ -27,12 +27,12 @@
 <img src="/images/wedding/wedding22a.jpg" height="150" alt="Wedding" class="img_link" /></a>                 
 <a href="/images/wedding/wedding23.jpg" title="Wedding" class="fancybox" rel="group">
 <img src="/images/wedding/wedding23a.jpg" height="150" alt="Wedding" class="img_link" /></a>   
-<a href="/images/wedding/weddings2.jpg" title="Wedding" class="fancybox" rel="group">
-<img src="/images/wedding/wedding2a.jpg" height="150" alt="Wedding"  /></a>
+<a href="/images/wedding/wedding2.jpg" title="Wedding" class="fancybox" rel="group">
+<img src="/images/wedding/wedding2a.jpg" height="150" alt="Wedding"  />                 </a>
 <a href="/images/wedding/wedding25.jpg" title="Wedding" class="fancybox" rel="group">
 <img src="/images/wedding/wedding25a.jpg" height="150" alt="Wedding" class="img_link" /></a>        
 <a href="/images/wedding/wedding3.jpg" title="Wedding" class="fancybox" rel="group">
-<img src="/images/wedding/wedding3a.jpg" height="150" alt="Wedding"  /></a>
+<img src="/images/wedding/wedding3a.jpg" height="150" alt="Wedding"  />                 </a>
 <a href="/images/wedding/wedding5.jpg" title="Wedding" class="fancybox" rel="group">
 <img src="/images/wedding/wedding5a.jpg" height="150" alt="Wedding" class="img_link" /></a>
 <a href="/images/wedding/wedding6.jpg" title="Wedding" class="fancybox" rel="group">
