@@ -64,8 +64,7 @@
 
    <h1 >Page Map</h1>
 
-    <ul>
-
+    
      <li ><a href="/index">Home</a></li>
 
      <li >Gallery
@@ -82,7 +81,7 @@
 
         <li><a href="./glamour.php">Glamour & Nude</a></li>
 
-              <li><a href="./weddings.php">Weddings</a></li>
+        <li><a href="./weddings.php">Weddings</a></li>
 
         <li><a href="./architecture.php">Architecture</a></li>
 
@@ -92,11 +91,20 @@
 
      </li> 
      
-	    <li ><a href="./news.php" ><span>NEWS</span></a></li> 
-
-     <li ><a href="./about.php" ><span>About Us</span></a></li>   
+     <li >About Us
+        <ul>
+        <li><a href="./about.php">About Us</a></li>
+        <li><a href="./work.php">How Do We Work</a></li>
+        </ul>
+     </li> 
+     
+	    <li >NEWS</li> 
+       
+      
+      <li class="top"><a href="./favourite.php" class="top_link"><span>Links</span></a></li> 
 
       <li>Photo Packages 
+      
       <ul >
         <li><a href="./packages.php">What We Offer?</a></li>
         <li><a href="./wedding-packages.php">Wedding Packages</a></li>
@@ -106,14 +114,11 @@
 
       <li><a href="./contact.php">Contact</a></li>
 
-         
-          <ul> 
-
          <li ><a href="./map.php" ><span>Page Map</span></a></li> 
 
          <li ><a href="./about.php" ><span>Katerina Dvorakova & Ivan Poul</span></a></li> 
 
-         </ul> 
+       
 
   
 
