@@ -2,10 +2,9 @@
 <?php include_once("./templates/html_header.php");?>
 
    <p align="justify">
- <h1 class="nadpis"><span>Packages & Pricing</span></h1>
+ <h1 class="nadpis"><span>What We Offer</span></h1>
  <br/>
  <p>
-WHAT WE OFFER?<br/> 
 
 Our photographic company if focussed on following topics: 
 <br/>

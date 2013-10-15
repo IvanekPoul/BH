@@ -2,7 +2,7 @@
 <?php include_once("./templates/html_header.php");?>
 
    <p align="justify">
- <h1 class="nadpis"><span>Event & Product Packages</span></h1>
+ <h1 class="nadpis"><span>Events & Product Packages</span></h1>
  <br/>
 <p align="left">
 Our product is going to be perfect professional photos given on DVD in the best resolution and quality.
