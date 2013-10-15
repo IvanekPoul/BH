@@ -1,7 +1,7 @@
 <?php $title = "Adults and Fashion Photos"; ?>
 <?php include_once("./templates/html_header.php");?>
 
-<h1>Adults & Portrait</h1>
+<h1>Adult Portrait</h1>
 <br/>
 
   <a href="./images/adults/201310095.jpg" title="Adults" class="fancybox" rel="group">

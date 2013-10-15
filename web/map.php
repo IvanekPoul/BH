@@ -11,9 +11,9 @@
 
 		    <ul >
 
-        <li><a href="./adults.php">Adults</a></li>
+        <li><a href="./adults.php">Adult Portrait</a></li>
 
-        <li><a href="./event.php">Event</a></li>
+        <li><a href="./event.php">Event & Product</a></li>
 
         <li><a href="./family.php">Family & Kids</a></li>
 

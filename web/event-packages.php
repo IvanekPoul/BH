@@ -11,15 +11,13 @@ Our product is going to be perfect professional photos given on DVD in the best 
 <img src="./img/price-event.jpg" width="600">
 <br/>
  <br/>
-*We take many shots during the session and after go through first selection and deleting. This number means amount of best photos which will
-advance to your on-line selection.
- <br/>
- <br/>
-**This number means number of photos chosen by you on-line. The same amount will go through post-production (basic or advanced) 
-and is going to be supplied to you.
-  <br/>
-  <br/>
-***Post-processing is an integral part of final product, we do not provide untouched photos. Post-production examples are shoved 
-in <a href="./work.php" target="blank" target="blank">How Do We Work</a> section. 
+*We take many shots during the session and then go through first selection and deleting. This number means amount of best photos advanced to your on-line selection. 
+<br/>
+<br/>
+**This number means number of photos chosen by you on-line. The same amount will go through post-processing (basic or advanced) and is going to be supplied to you on DVD/CD.
+<br/>
+<br/>
+***Post-processing is an integral part of final product, we do not provide untouched photos. Post-processing examples are shown in How Do We Work section.
+
 
 <?php include_once("./templates/html_footer.php");?>
