@@ -4,6 +4,7 @@
 
 <ul class="left-menu-photo">
 
+</ul>
     
 
 
@@ -14,7 +15,6 @@
 
 
 
-</ul>
 
 
 

@@ -111,12 +111,14 @@ body{
 #left-menu-text{
     width: 180px;
     float: left;
+    margin-right: 5px;
     text-align: justify;
 }
 
 #left-menu-photo{
     width: 300px;
     float: left;
+    margin-right: 5px;
     text-align: left;
 }
 
@@ -128,6 +130,7 @@ body{
 #right-menu-photo{
     width: 300px;
     float: left;
+    margin-right: 5px;
     text-align: left;
 }
 

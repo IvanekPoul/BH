@@ -4,7 +4,8 @@
 
 <ul class="left-menu-text">
 
-    
+ 
+</ul>   
 
 
 
@@ -22,7 +23,7 @@ I am passionate not only about taking shots but also about graphics including po
 As a graduated architect, I am focused on details and creative approach, the final product must reflect your both inner and outer beauty and capture your unique personality.
         </p>
 
-      </ul>
+
 
 
 

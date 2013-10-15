@@ -3,7 +3,8 @@
 
 
 <ul class="right-menu-text">
-
+ 
+</ul>
     
 
 
@@ -22,7 +23,7 @@ My background is scientific-technical; I graduated Facutly of Science and Facult
   <br/>
 I am most interested in taking photographs of Events, Glamour, Nature and photo shooting of people from different cultures.
       </p>
-      </ul>
+
 
 
 
