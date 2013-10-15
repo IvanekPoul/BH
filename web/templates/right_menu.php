@@ -6,7 +6,7 @@
 
     
 
-</ul>
+
 
   <p>
 
@@ -27,9 +27,7 @@ As a graduated architect, I am focused on details and creative approach, the fin
         <br/>
          <br/>
           <br/>
-           <br/>
-            <br/>
-               
+          
 <p>
 Hi, my name is Ivan.
 <br/>
@@ -39,8 +37,8 @@ My background is scientific-technical; I graduated Facutly of Science and Facult
   <br/>
 I am most interested in taking photographs of Events, Glamour, Nature and photo shooting of people from different cultures.
       </p>
-<br/>
-<p>
+      </ul>
+
 <div class="separator"></div>
 
 

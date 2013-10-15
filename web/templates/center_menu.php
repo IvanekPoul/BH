@@ -6,21 +6,18 @@
 
     
 
+
+
+  <img src="./images/work/kata.jpg" alt="Katerina" title="Katerina" height="500">
+
+                                 <br/>
+
+                                 <br/>
+
+  <img src="./images/work/ivan.jpg" alt="Ivan" title="Ivan" height="500">
+
+
 </ul>
-
-  <img src="./images/work/kata.jpg" alt="Katerina" title="Katerina" >
-
-                                 <br>
-
-                                 <br>
-
-                                 <br>
-
-  <img src="./images/work/ivan.jpg" alt="Ivan" title="Ivan" >
-
-<br>
-
-<p>
 
 <div class="separator"></div>
 
