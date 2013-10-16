@@ -6,13 +6,13 @@
    <a href="/images/fashion/201310161.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/201310161a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
      <a href="/images/fashion/201310162.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/20131016a2.jpg" height="150" alt="Fashion" class="img_link" /></a> 
+  <img src="/images/fashion/201310162a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
      <a href="/images/fashion/201310163.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/20131016a3.jpg" height="150" alt="Fashion" class="img_link" /></a> 
+  <img src="/images/fashion/201310163a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
      <a href="/images/fashion/201310164.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/20131016a4.jpg" height="150" alt="Fashion" class="img_link" /></a> 
+  <img src="/images/fashion/201310164a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
      <a href="/images/fashion/201310165.jpg" title="Fashion" class="fancybox" rel="group">
-  <img src="/images/fashion/20131016a5.jpg" height="150" alt="Fashion" class="img_link" /></a> 
+  <img src="/images/fashion/201310165a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
    
    <a href="/images/fashion/03102013-21.jpg" title="Fashion" class="fancybox" rel="group">
   <img src="/images/fashion/03102013-21a.jpg" height="150" alt="Fashion" class="img_link" /></a> 
