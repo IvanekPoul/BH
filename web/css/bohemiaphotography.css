@@ -111,12 +111,12 @@ body{
 #left-menu-text{
     width: 175px;
     float: left;
-    margin-right: 15px;
+    margin-right: 20px;
     text-align: justify;
 }
 
 #left-menu-photo{
-    width: 295px;
+    width: 290px;
     float: left;
     margin-right: 5px;
     text-align: left;
@@ -128,9 +128,9 @@ body{
     text-align: justify;
 }
 #right-menu-photo{
-    width: 295px;
+    width: 290px;
     float: left;
-    margin-right: 15px;
+    margin-right: 20px;
     text-align: left;
 }
 
