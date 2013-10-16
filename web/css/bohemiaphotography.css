@@ -142,15 +142,15 @@ p{
 
 h1{
     text-align: left;
-    font-size: huge;
+    font-size: medium;
     margin-bottom: 10px;
     /* background-color: #036; */
-    color: yellow;
+    color: white;
     padding: 10px;
 }
 
 h2{
-    font-size: medium;
+    font-size: normal;
     text-align: left;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -158,7 +158,7 @@ h2{
 }
 
 h3,h4{
-    font-size: medium;
+    font-size: normal;
     text-align: left;
     margin-bottom: 10px;
     /* background-color: #393; */
