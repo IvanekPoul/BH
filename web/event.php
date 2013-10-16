@@ -93,9 +93,6 @@
   <a href="/images/events/events1.jpg" title="Events" class="fancybox" rel="group">
   <img src="/images/events/events1ab.jpg" height="130" alt="Events" class="img_link" /></a>
       
-      <p>
-  <h2><a href="./price.php#portrait" target="blank">PRICE LIST</a></h2>
 
-</p>
 
 <?php include_once("./templates/html_footer.php");?>
