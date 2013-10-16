@@ -6,7 +6,7 @@
 
 </ul>
 
-  <img src="./images/work/ivan.jpg" alt="Ivan" title="Ivan" width="300">
+  <img src="./images/work/ivan.jpg" alt="Ivan" title="Ivan" width="290">
 
 
 

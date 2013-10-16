@@ -9,7 +9,7 @@
 
 
 
-  <img src="./images/work/kata.jpg" alt="Katerina" title="Katerina" width="300">
+  <img src="./images/work/kata.jpg" alt="Katerina" title="Katerina" width="290">
 
                                 
 
