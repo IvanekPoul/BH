@@ -9,7 +9,6 @@ FIRST STEP<br/>
 At first you should contact a photographer via mobile or e-mail and describe what kind of photos would you like. Our packages may help you decide:
 <br/>
 <br/> 
-PACKAGES:<br/>
 <a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
 <a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
 <a href="./event-packages.php" target="blank">Events & Product Packages</a>
