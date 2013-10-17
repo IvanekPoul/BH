@@ -6,23 +6,24 @@
  <br/>
  <p>
 FIRST STEP<br/> 
-At first you should <strong>contact a photographer</strong> via mobile or e-mail and book a consultation in your convenience and/or just to ask for a price of our service.
+At first you should contact a photographer via mobile or e-mail and describe what kind of photos would you like. Our packages may help you decide:
 <br/>
+<br/> 
+PACKAGES:<br/>
+<a href="./wedding-packages.php" target="blank">Wedding Packages</a> <br/>
+<a href="./portrait-packages.php" target="blank">Portrait Packages</a> <br/>
+<a href="./event-packages.php" target="blank">Events & Product Packages</a>
 <br/>
+<br/> 
+For more complex events such a weddings or thematic fashion and life style photos, book a consultation in your convenience. 
+<br/>
+<br/> 
 CONSULTATION<br/>
-It is the easiest way how to reach fantastic photos. Having a chat with a professional it means discuss your intentions to find a perfect solution for you. 
-Not without success is our motto: <i>"Let us capture your unique soul"</i>. During the consultation we will explain you how to start the photo session, what 
-to wear on, what style of make-up will be perfect for the photo-session fitting with you special occasion.
-<br/>
-We would like to give you a piece of advice moreover we will get some information about you. Book a consultation now, it's free! 
-During consultation we could easily arrange a price for the photo-session to your convenience.
+It is the easiest way how to reach fantastic photos. Having a chat with us means to discuss your idea and find a perfect solution for you. Tell us your story and anything about you and "Let us capture your unique soul". You can show us any reference images during the consultation to express your intention and we will explain you how to prepare, what to wear on, what style of make-up will be perfect for your special occasion and what place to choose for exterior photo-shooting.
+Book a consultation now, it's free! During our consultation we can also arrange a price for the photo-session to your convenience (related to wedding packages and other shooting beyond basic packages offer). 
 <br/>
 <br/>
-PRICING<br/>
-<strong>Contact us for photo-session/event pricing now! We are expecting your phone-call or e-mail.</strong>
-<br/>
-<br/>        
-Do not hesitate to contact us with your special wish..., tell us your dreams about the photo-session.
+Do not hesitate to contact us with your special wish.
  </p> 
    <br/>
 
