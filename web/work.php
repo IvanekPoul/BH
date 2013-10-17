@@ -39,6 +39,7 @@ WORK WITH LIGHT
 <a href="/images/work/light1.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light1a.jpg" height="255"> </a>
 <a href="/images/work/light2.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light2a.jpg" height="255"> </a>
 <a href="/images/work/light3.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light3a.jpg" height="255"> </a>
+<a href="/images/work/light4.jpg" title="Work With Light" class="fancybox" rel="group"><img src="./images/work/light4a.jpg" height="255"> </a>
   
   <br/>
   <br/>              
