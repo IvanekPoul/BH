@@ -17,7 +17,7 @@ Our product is going to be perfect professional photos given on DVD in the best 
 **This number means number of photos chosen by you on-line. The same amount will go through post-processing (basic or advanced) and is going to be supplied to you on DVD/CD.
 <br/>
 <br/>
-***Post-processing is an integral part of final product, we do not provide untouched photos. Post-processing examples are shown in How Do We Work section.
+***Post-processing is an integral part of final product, we do not provide untouched photos. Post-processing examples are shown in <a href="./work.php" target="blank">How Do We Work</a> section.
  <br/> 
  <br/> 
 
