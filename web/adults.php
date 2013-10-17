@@ -59,8 +59,8 @@
    <a href="./images/adults/2013101810.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101810a.jpg" height="150" alt="Adults"  />
   </a>
-   <a href="./images/adults/201310181111.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/20131018a.jpg" height="150" alt="Adults"  />
+   <a href="./images/adults/2013101811.jpg" title="Adults" class="fancybox" rel="group">
+    <img src="./images/adults/2013101811a.jpg" height="150" alt="Adults"  />
   </a>
    <a href="./images/adults/2013101812.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101812a.jpg" height="150" alt="Adults"  />
@@ -104,10 +104,7 @@
    <a href="./images/adults/2013101825.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101825a.jpg" height="150" alt="Adults"  />
   </a>
-   <a href="./images/adults/2013101826.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/2013101826a.jpg" height="150" alt="Adults"  />
-  </a>
-   <a href="./images/adults/2013101827.jpg" title="Adults" class="fancybox" rel="group">
+    <a href="./images/adults/2013101827.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101827a.jpg" height="150" alt="Adults"  />
   </a>
    <a href="./images/adults/2013101828.jpg" title="Adults" class="fancybox" rel="group">
