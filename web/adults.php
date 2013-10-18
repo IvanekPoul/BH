@@ -109,13 +109,13 @@
   </a>
    <a href="./images/adults/2013101828.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101828a.jpg" height="150" alt="Adults"  />
-  </a><br> 
+  </a> 
   <a href="./images/adults/2013101829.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101829a.jpg" height="150" alt="Adults"  />
   </a>
    <a href="./images/adults/2013101830.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101830a.jpg" height="150" alt="Adults"  />
-  </a><br>
+  </a>
    <a href="./images/adults/2013101831.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101831a.jpg" height="150" alt="Adults"  />
   </a>
