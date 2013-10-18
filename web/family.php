@@ -42,13 +42,10 @@
 
 <img src="/images/family/family6a.jpg" height="150" alt="Family Photos" class="img_link" /></a>       
 
+ <a href="/images/family/20131018.jpg" title="Family Photos" class="fancybox" rel="group">
 
-
-<a href="/images/family/kids1.jpg" title="Family & Kids Photos" class="fancybox" rel="group">
-
-<img src="/images/family/kids1a.jpg" height="150" alt="Family & Kids Photos" class="img_link" /></a>  
-
-   
+<img src="/images/family/20131018a.jpg" height="150" alt="Family Photos" class="img_link" /></a>       
+ 
 
 <a href="/images/family/kids20.jpg" title="Family & Kids Photos" class="fancybox" rel="group">
 
