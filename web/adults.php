@@ -79,16 +79,7 @@
    <a href="./images/adults/2013101817.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101817a.jpg" height="150" alt="Adults"  />
   </a>
-   <a href="./images/adults/2013101818.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/2013101818a.jpg" height="150" alt="Adults"  />
-  </a>
-   <a href="./images/adults/2013101819.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/2013101819a.jpg" height="150" alt="Adults"  />
-  </a>
-   <a href="./images/adults/2013101820.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/2013101820a.jpg" height="150" alt="Adults"  />
-  </a>
-   <a href="./images/adults/2013101821.jpg" title="Adults" class="fancybox" rel="group">
+    <a href="./images/adults/2013101821.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/2013101821a.jpg" height="150" alt="Adults"  />
   </a>
    <a href="./images/adults/2013101822.jpg" title="Adults" class="fancybox" rel="group">

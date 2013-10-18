@@ -12,7 +12,15 @@
 <img src="/images/glamour/03102013-9a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>   
 <a href="/images/glamour/03102013-20.jpg" title="Glamour & Nude" class="fancybox" rel="group">
 <img src="/images/glamour/03102013-20a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>  
-
+ <a href="./images/glamour/2013101818.jpg" title="Glamour & Nude" class="fancybox" rel="group">
+    <img src="./images/glamour/2013101818a.jpg" height="150" alt="Glamour & Nude"  />
+  </a>
+   <a href="./images/glamour/2013101819.jpg" title="Glamour & Nude" class="fancybox" rel="group">
+    <img src="./images/glamour/2013101819a.jpg" height="150" alt="Glamour & Nude"  />
+  </a>
+   <a href="./images/glamour/2013101820.jpg" title="Glamour & Nude" class="fancybox" rel="group">
+    <img src="./images/glamour/2013101820a.jpg" height="150" alt="Glamour & Nude"  />
+  </a>
 <a href="/images/glamour/03102013-11.jpg" title="Glamour & Nude" class="fancybox" rel="group">
 <img src="/images/glamour/03102013-11a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>  
 <a href="/images/glamour/03102013-13.jpg" title="Glamour & Nude" class="fancybox" rel="group">
