@@ -130,9 +130,5 @@
       <a href="/images/fashion/exib10a.jpg" title="NZ Fashion Week" class="fancybox" rel="group">
   <img src="/images/fashion/exib10ab.jpg" height="150" alt="NZ Fashion Week" class="img_link" /></a>
 
-  <p>
-  <h2><a href="./price.php#portrait" target="blank">PRICE LIST</a></h2>
-
-</p>
 
 <?php include_once("./templates/html_footer.php");?>

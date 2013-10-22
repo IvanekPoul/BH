@@ -76,9 +76,6 @@
 <img src="/images/glamour/gl4a.jpg" height="150" alt="Glamour" class="img_link" /></a>  
 <a href="/images/glamour/03102013-10.jpg" title="Glamour & Nude" class="fancybox" rel="group">
 <img src="/images/glamour/03102013-10a.jpg" height="150" alt="Glamour & Nude" class="img_link" /></a>  
-    <p>
-<h2><a href="./price.php#portrait" target="blank">PRICE LIST</a></h2>
-
-</p>
+ 
 
 <?php include_once("./templates/html_footer.php");?>
