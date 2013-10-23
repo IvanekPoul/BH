@@ -1,7 +1,9 @@
 <?php $title = "News"; ?>
+<?php include_once("./templates/html_header.php");?>
+
 <script type="text/javascript">
     var mygallery=new fadeSlideShow({
-	    wrapperid: "fadeshow", 
+	    wrapperid: "fadeshow1", 
 	    dimensions: [900, 598], 
 	    imagearray: [<?php include("./generate.php");?>],
 	    displaymode: {type:'auto', pause:8000, cycles:0, wraparound:false},
@@ -10,8 +12,6 @@
 	    descreveal: "ondemand",
 	    togglerid: ""})
     </script>
-<?php include_once("./templates/html_header.php");?>
-
 
 
    <h1>Cook Islanders</h1>
@@ -20,7 +20,7 @@
      <br/>
    try jedde
       <div id="pict">
-       <div id="fadeshow"></div>
+       <div id="fadeshow1"></div>
     </div>
 obr nahore?     
 
