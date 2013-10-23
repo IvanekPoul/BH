@@ -21,10 +21,6 @@
     <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
     <script type="text/javascript" src="js/fancybox/jquery.mousewheel.pack.js"></script>
     <script type="text/javascript" src="js/fancybox/helpers/jquery.fancybox-thumbs.js"></script>
-
-    <script type="text/javascript" src="js/fade.js">
-    
-    </script>
-
+      
     <script type="text/javascript" src="js/bohemia.js"></script>
     <!-- HEADER TEMPLATE END -->
