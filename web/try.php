@@ -2,9 +2,10 @@
 
 ?>
   <head>
+   <script type="text/javascript" src="/js/fadeslideshow.js">
    <script type="text/javascript">
     var mygallery=new fadeSlideShow({
-	    wrapperid: "fadeshow1", 
+	    wrapperid: "fadeshow", 
 	    dimensions: [900, 598], 
 	    imagearray: [<?php include("generate.php");?>],
 	    displaymode: {type:'auto', pause:8000, cycles:0, wraparound:false},
@@ -13,10 +14,11 @@
 	    descreveal: "ondemand",
 	    togglerid: ""})
     </script>
-                </head>
-                <body>
+</head>
+<body>
+ try jedde
       <div id="pict">
-       <div id="fadeshow1"></div>
+       <div id="fadeshow"></div>
     </div>
-    try jedde
+obr nahore?   
     </body>
