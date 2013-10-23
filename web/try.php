@@ -12,8 +12,6 @@
       <div id="pict">
        <div id="fadeshow1"></div>
     </div>
-obr nahore?     
-
- try jede
+?
  
 <?php include_once("./templates/html_footer.php");?>
