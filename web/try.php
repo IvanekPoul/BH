@@ -1,6 +1,6 @@
 <?php $title = "News"; ?>
 <?php include_once("./templates/html_header.php");?>
-
+<script type="text/javascript" src="js/fade.js"></script>
 
 
 
@@ -12,6 +12,6 @@
       <div id="pict">
        <div id="fadeshow1"></div>
     </div>
-nove
+nove1
  
 <?php include_once("./templates/html_footer.php");?>
