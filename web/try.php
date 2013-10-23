@@ -1,7 +1,7 @@
 <?php
 
 ?>
-
+  <head>
    <script type="text/javascript">
     var mygallery=new fadeSlideShow({
 	    wrapperid: "fadeshow1", 
@@ -13,5 +13,9 @@
 	    descreveal: "ondemand",
 	    togglerid: ""})
     </script>
-    
-    
+                </head>
+                <body>
+      <div id="pict">
+       <div id="fadeshow1"></div>
+    </div>
+    </body>
