@@ -69,8 +69,8 @@ body{
 }
  
 #pict{
-    width: 976px;
-    height: 232px;
+    width: 900px;
+    height: 600px;
     z-index:200;
     /* background: url(pict.jpg) no-repeat center top; */
 }

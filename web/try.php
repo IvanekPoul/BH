@@ -1,9 +1,5 @@
-<?php
-
-?>
-  <head>
-   <script type="text/javascript" src="./js/fadeslideshow.js">
-   <script type="text/javascript">
+<?php $title = "News"; ?>
+<script type="text/javascript">
     var mygallery=new fadeSlideShow({
 	    wrapperid: "fadeshow", 
 	    dimensions: [900, 598], 
@@ -14,11 +10,20 @@
 	    descreveal: "ondemand",
 	    togglerid: ""})
     </script>
-</head>
-<body>
- try jedde
+<?php include_once("./templates/html_header.php");?>
+
+
+
+   <h1>Cook Islanders</h1>
+
+   
+     <br/>
+   try jedde
       <div id="pict">
        <div id="fadeshow"></div>
     </div>
-obr nahore?   
-    </body>
+obr nahore?     
+
+ try jede
+ 
+<?php include_once("./templates/html_footer.php");?>
