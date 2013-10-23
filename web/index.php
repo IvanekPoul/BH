@@ -28,7 +28,7 @@
         <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 </div>
- <a href="try.php">try </a>
+
 <p>
 Let Us Capture Your Unique Soul!
 <br/>

@@ -21,8 +21,8 @@ Our photographic company if focussed on following topics:
 </strong>
 <br/> 
 <br/> 
-We offer various packages in different prices e.g. <strong>Wedding Photography</
-strong>: <i>"Small"</i> = Ceremony, <i>"Middle" </i>package = Kiss session + Ceremony, 
+We offer various packages in different prices e.g. <strong>Wedding Photography
+</strong>: <i>"Small"</i> = Ceremony, <i>"Middle" </i>package = Kiss session + Ceremony, 
 <i>"Full"</i> package = Kiss session + Ceremony + Party (approx. 8 hrs.) 
 <br/> 
 <br/> 
