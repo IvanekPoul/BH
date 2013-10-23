@@ -12,6 +12,6 @@
       <div id="pict">
        <div id="fadeshow1"></div>
     </div>
-?
+nove
  
 <?php include_once("./templates/html_footer.php");?>
