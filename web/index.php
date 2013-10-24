@@ -30,14 +30,14 @@
    <a href="./weddings.php" onMouseOver="turnOn('image9')" onMouseOut="turnOff('image9')">
         <img name="image9" class="img-right" src="images/top/weddings3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-    <a href="./glamour.php" onMouseOver="turnOn('image10')" onMouseOut="turnOff('image10')">
-        <img name="image10" class="img-right" src="images/top/nudes3.jpg"  width="200" border="0"
-        onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
     <a href="./adults.php" onMouseOver="turnOn('image11')" onMouseOut="turnOff('image11')">
         <img name="image11" class="img-right" src="images/top/adults3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
     <a href="./event.php" onMouseOver="turnOn('image12')" onMouseOut="turnOff('image12')">
         <img name="image12" src="images/top/events3.jpg"  width="200" border="0"
+        onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
+   <a href="./glamour.php" onMouseOver="turnOn('image10')" onMouseOut="turnOff('image10')">
+        <img name="image10" class="img-right" src="images/top/nudes3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
 </div>
 
