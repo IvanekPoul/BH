@@ -141,3 +141,70 @@ function turnOff(image8) {
     document[image8].src = eval(image8 + "off.src");
    }
 }
+ <!--
+if (document.images) {
+  image9on = new Image();
+  image9on.src = "images/top/weddings4.jpg";
+  image9off = new Image();
+  image9off.src = "images/top/weddings3.jpg";
+}
+function turnOn(image9) {
+  if (document.images) {
+    document[image9].src = eval(image9 + "on.src");
+  }
+}
+function turnOff(image9) {
+  if (document.images) {
+    document[image9].src = eval(image9 + "off.src");
+   }
+}
+ <!--
+if (document.images) {
+  image10on = new Image();
+  image10on.src = "images/top/nudes4.jpg";
+  image10off = new Image();
+  image10off.src = "images/top/nudes3.jpg";
+}
+function turnOn(image10) {
+  if (document.images) {
+    document[image10].src = eval(image10 + "on.src");
+  }
+}
+function turnOff(image10) {
+  if (document.images) {
+    document[image10].src = eval(image10 + "off.src");
+   }
+}
+ <!--
+if (document.images) {
+  image11on = new Image();
+  image11on.src = "images/top/adults4.jpg";
+  image11off = new Image();
+  image11off.src = "images/top/adults3.jpg";
+}
+function turnOn(image11) {
+  if (document.images) {
+    document[image11].src = eval(image11 + "on.src");
+  }
+}
+function turnOff(image11) {
+  if (document.images) {
+    document[image11].src = eval(image11 + "off.src");
+   }
+}
+if (document.images) {
+  image12on = new Image();
+  image12on.src = "images/top/events4.jpg";
+  image12off = new Image();
+  image12off.src = "images/top/events3.jpg";
+}
+function turnOn(image12) {
+  if (document.images) {
+    document[image12].src = eval(image12 + "on.src");
+  }
+}
+function turnOff(image12) {
+  if (document.images) {
+    document[image12].src = eval(image12 + "off.src");
+   }
+}
