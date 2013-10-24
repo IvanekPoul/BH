@@ -5,6 +5,9 @@
    <h1>Iveta & Andrew</h1>
 
      <br/>
+     This is a wedding portrait of two happy people, captured in ruins of former gold battery close to Waihi. This site provides amazing sceneries perfect for wedding photography. We wish them a happy marriage...
+     <br/>
+     <br/>
     <a href="./images/4/201310111.jpg" class="fancybox" rel="group" ><img src="/images/4/201310111a.jpg" height="150" alt="Iveta & Andrew"  /></a>
     <a href="./images/4/201310112.jpg" class="fancybox" rel="group" ><img src="/images/4/201310112a.jpg" height="150" alt="Iveta & Andrew"  /></a>
     <a href="./images/4/201310113.jpg" class="fancybox" rel="group" ><img src="/images/4/201310113a.jpg" height="150" alt="Iveta & Andrew"  /></a>
