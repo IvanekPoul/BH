@@ -27,17 +27,14 @@
     <a href="./architecture.php" onMouseOver="turnOn('image8')" onMouseOut="turnOff('image8')">
         <img name="image8" src="images/top/architecture1.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-    <a href="./nature.php" onMouseOver="turnOn('image7')" onMouseOut="turnOff('image7')">
-        <img class="img-right" name="image7" src="images/top/nature1.jpg"  width="200" border="0"
-        onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
-    <a href="./weddings.php" onMouseOver="turnOn('image9')" onMouseOut="turnOff('image9')">
-        <img name="image9" src="images/top/weddings3.jpg"  width="200" border="0"
+   <a href="./weddings.php" onMouseOver="turnOn('image9')" onMouseOut="turnOff('image9')">
+        <img name="image9" class="img-right" src="images/top/weddings3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
     <a href="./glamour.php" onMouseOver="turnOn('image10')" onMouseOut="turnOff('image10')">
-        <img name="image10" src="images/top/nudes3.jpg"  width="200" border="0"
+        <img name="image10" class="img-right" src="images/top/nudes3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
     <a href="./adults.php" onMouseOver="turnOn('image11')" onMouseOut="turnOff('image11')">
-        <img name="image11" src="images/top/adults3.jpg"  width="200" border="0"
+        <img name="image11" class="img-right" src="images/top/adults3.jpg"  width="200" border="0"
         onmouseover="window.status='ADULTS'; return true" onmouseout="window.status='SSSSSS'; return true"/></a>
     <a href="./event.php" onMouseOver="turnOn('image12')" onMouseOut="turnOff('image12')">
         <img name="image12" src="images/top/events3.jpg"  width="200" border="0"
