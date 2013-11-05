@@ -46,7 +46,7 @@ Let Us Capture Your Unique Soul!
 <br/>
 Photo services never should be just about pressing a camera trigger; we are ready to assist you from a choice of topic to a final product prints.
 <br/>
-Our team offer a wide range themes and have invites you to our good equipped photographic studio.
+Our team offers a wide range themes and invites you to our good equipped photographic <a href="./work.php#work-with-light">studio</a>.
 
 </p>
 <br/>

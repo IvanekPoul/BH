@@ -122,10 +122,7 @@
      <img src="./images/adults/a5a.jpg" height="150" alt="Adults"  /></a>
   <a href="./images/adults/adults5.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/adults5a.jpg" height="150" alt="Adults"  /></a>
-      <a href="./images/adults/adults8.jpg" title="Adults" class="fancybox" rel="group">
-    <img src="./images/adults/adults8a.jpg" height="150" alt="Adults"  /></a>
-     <a href="./images/adults/adults9.jpg" title="Adults" class="fancybox" rel="group">
-     <img src="./images/adults/adults9a.jpg" height="150" alt="Adults"  /></a>
+      
   <a href="./images/adults/adults24.jpg" title="Adults" class="fancybox" rel="group">
     <img src="./images/adults/adults24a.jpg" height="150" alt="Adults"  /></a>
     <a href="./images/adults/adults25.jpg" title="Adults" class="fancybox" rel="group">
