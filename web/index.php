@@ -51,4 +51,5 @@ Our team offers a wide range themes and invites you to our good equipped photogr
 </p>
 <br/>
 </p>
+
 <?php include_once("./templates/html_footer.php");?>
